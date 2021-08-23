@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.darlingstrading.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.darlingstrading.com/collections/custom-design.atom"/>
+  <title>Darling&apos;s Canada</title>
+  <updated>2014-07-03T14:04:00-07:00</updated>
+  <author>
+    <name>Darling&apos;s Canada</name>
+  </author>
+  <entry>
+    <id>https://www.darlingstrading.com/products/338584053</id>
+    <published>2014-07-03T14:04:00-07:00</published>
+    <updated>2014-07-03T14:04:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-i-love-canada-flag-wallet"/>
+    <title>Darling&apos;s Leather Wallet - Medium - United States Flag</title>
+    <s:type>Wallet</s:type>
+    <s:vendor>FLAG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WTT902-US-1.jpg?v=1571438536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FLAG<br>
+        <strong>Type: </strong>Wallet<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Model#<strong> WTT 902 US</strong>
+</li>
+<li><span style="line-height: 1.5;">5''(L) X 4''(H) X 1''(W)</span></li>
+<li>Genuine <strong>leather</strong>
+</li>
+<li>Leather lining</li>
+<li><span style="line-height: 1.5;">Two-sided distinctive designs</span></li>
+<li><span style="line-height: 1.5;">Substantial zipper pull</span></li>
+<li><span style="line-height: 1.5;">Inner zip pocket</span></li>
+<li><span style="line-height: 1.5;">Main zip-top closure</span></li>
+<li><span style="line-height: 1.5;">Bills and credit card slots</span></li>
+<li><span style="line-height: 1.5;">Shipped from Canada / US</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flag</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>USA</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/338584053</id>
+      <title>WTT902-US</title>
+      <s:price currency="TWD">16.00</s:price>
+      <s:sku>WTT902-US</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/1355629057</id>
+    <published>2014-06-30T15:57:00-07:00</published>
+    <updated>2014-06-30T15:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/hda68-uk"/>
+    <title>HDA-68-UK - United Kingdom Flag Handbag</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/Flag_UK_Medium-01.jpg?v=1571438540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Darling's New United Kingdom Flag Handbag</strong></div>
+<br>
+<div><strong>Model# HDA 68 UK</strong></div>
+<div><strong>    </strong></div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong style="line-height: 1.5;">Year-round design, never out of trend</strong></li>
+<li><strong style="line-height: 1.5;">A Must Buy for Tourists</strong></li>
+<li><strong style="line-height: 1.5;">Makes a thoughtful souvenir</strong></li>
+<li><strong style="line-height: 1.5;">No concern for any Seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>13.5''(W) X 9''(H) X 5''(D) </li>
+<li>Premium PU leather</li>
+<li>Fabric lining</li>
+<li>Handles</li>
+<li>Adjustable crossbody strap </li>
+<li>Main zip-top closure</li>
+<li>Inner zip and cellphone pockets</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flag</s:tag>
+    <s:tag>Handbag</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>UK</s:tag>
+    <s:tag>United Kingdom</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1355629057</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">30.00</s:price>
+      <s:sku>HDA-68-UK</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/1354583489</id>
+    <published>2014-06-30T15:57:00-07:00</published>
+    <updated>2014-06-30T15:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-new-canada-flag"/>
+    <title>HDA-68-CA - Canada Flag Handbag</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/Flag_CA_Medium-01.jpg?v=1571438540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Darling's New Canada Flag Handbag</strong></div>
+<br>
+<div><strong>Model# HDA 68 CA</strong></div>
+<div><strong>    </strong></div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong style="line-height: 1.5;">Year-round design, never out of trend</strong></li>
+<li><strong style="line-height: 1.5;">A Must Buy for Tourists</strong></li>
+<li><strong style="line-height: 1.5;">Makes a thoughtful souvenir</strong></li>
+<li><strong style="line-height: 1.5;">No concern for any Seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>13.5''(W) X 9''(H) X 5''(D) </li>
+<li>Premium PU leather</li>
+<li>Fabric lining</li>
+<li>Handles</li>
+<li>Adjustable crossbody strap </li>
+<li>Main zip-top closure</li>
+<li>Inner zip and cellphone pockets</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CANADA</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>Handbag</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1354583489</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">30.00</s:price>
+      <s:sku>HDA-68-CA</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.darlingstrading.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.darlingstrading.com/collections/line-made-simple.atom"/>
+  <title>Darling&apos;s Canada</title>
+  <updated>2021-08-06T15:14:07-07:00</updated>
+  <author>
+    <name>Darling&apos;s Canada</name>
+  </author>
+  <entry>
+    <id>https://www.darlingstrading.com/products/1295168634947</id>
+    <published>2021-08-06T15:14:07-07:00</published>
+    <updated>2021-08-06T15:14:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-sling-shoulder-cross-body-bag-spring-edition-small-12-colors"/>
+    <title>GS-9738 - CrossBody Bag - New Edition - 22+ Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/GS9738a.jpg?v=1628287595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div><strong>Darling's Sling Shoulder Cross-Body Bag - Spring Edition - Small - 12 Colors<br><br></strong></div>
+<br>
+<div><strong>Model# GS 9738</strong></div>
+<div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Year-round design, never out of trend</strong></li>
+<li><strong>Sophisticated hardware and functional design</strong></li>
+<li><strong>Makes a special city bag</strong></li>
+<li><strong>No concern for any Seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 7.5'(W) X 6.5''(H) X 3.5''(D) </li>
+<li>Drop length: 12-24" adjustable crossbody strap</li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Main zip-top closure</li>
+<li>Inner zip and cell phone pockets</li>
+<li>Shipped from Canada / US</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-APC</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Coffee</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-COF</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Black</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Brown</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Bronze</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-BRZ</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Olive</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-Olive</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Light Grey</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-LGRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Navy Blue</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-NAV</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Pink</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-PNK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Red</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-RED</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Turmeric</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-TUR</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Grey</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-GRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Dark Green</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-DGRN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Metallic</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-MBLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Mauve</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-MAU</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Camel</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-CAM</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Burgundy</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-BUR</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>White</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-WHT</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Teal</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-TEA</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Plum</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-PLM</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Light Purple</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-LPPL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1295168634947</id>
+      <title>Light Blue</title>
+      <s:price currency="TWD">17.00</s:price>
+      <s:sku>GS-9738-LBLU</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4618281091139</id>
+    <published>2021-01-07T21:55:31-08:00</published>
+    <updated>2021-01-07T21:55:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-7286-darling-leatherette-messenger-bag-8-colors"/>
+    <title>YD-7286 - Darling Leatherette Messenger Bag - 4 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD7286-BWN.jpg?v=1618035235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><b>YD-7286 - Darling Leatherette Messenger Bag - 4 Colors<br><br></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div>
+<meta charset="utf-8">
+<div><strong>2021 New Design～ Leather like looking and feel，durable new material<br><br></strong></div>
+<div><strong></strong></div>
+<div><strong></strong></div>
+<div><strong>Model# YD 7286</strong></div>
+<div><strong></strong></div>
+<div>
+<div>
+<strong>Features:</strong>
+<ul>
+<li><strong>Uni-Sex style, easy-seller<br></strong></li>
+<li><strong>Year-round design, flexible trend</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 14''(W) X 10''(H) X 5''(D) </li>
+<li>Substantial PU leather</li>
+<li>Zipper Closure</li>
+<li>Fabric lining</li>
+<li>Inner zip pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618281091139</id>
+      <title>Grey</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7286-GRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618281091139</id>
+      <title>Navy Blue</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7286-NAV</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618281091139</id>
+      <title>Brown</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7286-BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618281091139</id>
+      <title>Black</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7286-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4618279714883</id>
+    <published>2021-01-07T21:51:57-08:00</published>
+    <updated>2021-01-07T21:51:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-7362-darling-leatherette-tote-cosmetic-8-colors"/>
+    <title>YD-7362 - Darling Leatherette Shoulder Tote Bag - 8 Colors</title>
+    <s:type>Tote Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD7362Nav.jpg?v=1629348617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Tote Bag<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><b>YD-7362 - Darling Leatherette Shoulder Tote Bag - 8 Colors<br><br></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div>
+<meta charset="utf-8">
+<div><strong>2021 New Design～ Leather like looking and feel，durable new material<br><br></strong></div>
+<div><strong></strong></div>
+<div><strong></strong></div>
+<div><strong>Model# YD 7362</strong></div>
+<div><strong></strong></div>
+<div>
+<div>
+<strong>Features:</strong>
+<ul>
+<li><strong>Urban style, easy-seller<br></strong></li>
+<li><strong>Year-round design, flexible trend</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 15''(W) X 10''(H) X 5''(D) </li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Inner zip pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618279714883</id>
+      <title>Navy Blue</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7362-NAV</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618279714883</id>
+      <title>Grey</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7362-GRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618279714883</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7362-APC</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618279714883</id>
+      <title>Coral / Orange Pink</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7362-ORG</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618279714883</id>
+      <title>Black</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7362-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618279714883</id>
+      <title>Light Brown</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7362-LBWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618279714883</id>
+      <title>Brown</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7362-BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618279714883</id>
+      <title>Turmeric</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7362-TUR</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4618278043715</id>
+    <published>2021-01-07T21:47:58-08:00</published>
+    <updated>2021-01-07T21:47:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-152-darling-leatherette-tote-cosmetic-8-colors"/>
+    <title>YD-152 - Darling Leatherette Tote + Cosmetic - 8 Colors</title>
+    <s:type>Tote Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD152NAV.jpg?v=1629348927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Tote Bag<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><b>YD-152 - Darling Leatherette Tote Bag + Cosmetic Bag Set - 8 Colors<br><br></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div>
+<meta charset="utf-8">
+<div><strong>2021 New Design～ Leather like looking and feel，durable new material<br><br></strong></div>
+<div><strong></strong></div>
+<div><strong></strong></div>
+<div><strong>Model# YD 152</strong></div>
+<div><strong></strong></div>
+<div>
+<div>
+<strong>Features:</strong>
+<ul>
+<li><strong>Urban style, easy-seller<br></strong></li>
+<li><strong>Year-round design, flexible trend</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 16''(W) X 11''(H) X 5''(D) </li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Inner zip pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cosmetic</s:tag>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Navy Blue</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-NAV</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Turmeric</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-YEL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-APC</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Coral (Orange Pink)</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-ORG</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Light Brown</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-LBWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Brown</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Grey</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-GRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Black</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4618273062979</id>
+    <published>2021-01-07T21:30:19-08:00</published>
+    <updated>2021-01-07T21:30:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-8116-darling-leatherette-tote-cosmetic-8-colors"/>
+    <title>YD-8116 - Darling Leatherette Tote + Cosmetic - 8 Colors</title>
+    <s:type>Tote Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD8116GRY.jpg?v=1629348978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Tote Bag<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><b>YD-8116 - Darling Leatherette Tote Bag + Cosmetic Bag Set - 8 Colors<br><br></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div>
+<meta charset="utf-8">
+<div><strong>2021 New Design～ Leather like looking and feel，durable new material<br><br></strong></div>
+<div><strong></strong></div>
+<div><strong></strong></div>
+<div><strong>Model# YD 8116</strong></div>
+<div><strong></strong></div>
+<div>
+<div>
+<strong>Features:</strong>
+<ul>
+<li><strong>Urban style, easy-seller<br></strong></li>
+<li><strong>Year-round design, flexible trend</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 16''(W) X 11''(H) X 5''(D) </li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Inner zip pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cosmetic</s:tag>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Grey</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-GRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Navy Blue</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-NAV</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Light Brown</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-LBWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Brown</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Coral / Orange Pink</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-COR</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-APC</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Turmeric</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-YEL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Black</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4590902870083</id>
+    <published>2020-10-28T21:04:19-07:00</published>
+    <updated>2020-10-28T21:04:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/gs-062-crossbody-bag-two-tone"/>
+    <title>GS-062 - CrossBody Bag - Two Tone - 8 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/GS062Yel_BwnA.jpg?v=1628562718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div><strong>Darling's Sling Shoulder Cross-Body Bag - Two Tone Edition - Small - 8 Colors</strong></div>
+<br>
+<div><strong>Model# GS 062</strong></div>
+<div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Year-round design, never out of trend</strong></li>
+<li><strong>Sophisticated hardware and functional design</strong></li>
+<li><strong>Makes a special city bag</strong></li>
+<li><strong>No concern for any Seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 7.5'(W) X 6.5''(H) X 3.5''(D) </li>
+<li>Crossbody strap</li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Main zip-top closure</li>
+<li>Shipped from Canada / US</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4590902870083</id>
+      <title>Grey + Beige</title>
+      <s:price currency="TWD">16.00</s:price>
+      <s:sku>GS-062-GRY/BGE</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4590902870083</id>
+      <title>Black + White</title>
+      <s:price currency="TWD">16.00</s:price>
+      <s:sku>GS-062-BLK/WHT</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4590902870083</id>
+      <title>Navy &amp; Grey</title>
+      <s:price currency="TWD">16.00</s:price>
+      <s:sku>GS-062-NAV/GRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4590902870083</id>
+      <title>Orange + Brown</title>
+      <s:price currency="TWD">16.00</s:price>
+      <s:sku>GS-062-ORG/BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4590902870083</id>
+      <title>Tan + Brown</title>
+      <s:price currency="TWD">16.00</s:price>
+      <s:sku>GS-062-TAN/BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4590902870083</id>
+      <title>Yellow + Brown</title>
+      <s:price currency="TWD">16.00</s:price>
+      <s:sku>GS-062-YEL/BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4590902870083</id>
+      <title>Beige + White</title>
+      <s:price currency="TWD">16.00</s:price>
+      <s:sku>GS-062-BGE/WHT</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4529502715971</id>
+    <published>2020-08-07T19:42:37-07:00</published>
+    <updated>2020-08-07T19:42:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-6135-darling-satchel-bag-2-bag-set-4-colors"/>
+    <title>YD-6135 - Darling Satchel Bag - 2 Bag Set - 4 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD-6135BWN.jpg?v=1625332649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            39.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# <b>YD 6135</b>
+</div>
+<div><b> </b></div>
+<div><b></b></div>
+<div><b>NEW Multi Fabric Combine 2 Bags Set! </b></div>
+<div><b>- 1x medium-large handbag with extra shoulder strap</b></div>
+<div><b>- 1x small-medium flat bag with hand strap + should strap</b></div>
+<div>  </div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Simplicity, Spacious &amp; Comfortable Design</strong></li>
+<li><strong>Easy outfit matching, no conflicts</strong></li>
+<li><strong>Chic, Fascinating and Quality all-in-one piece</strong></li>
+<li><strong>All-Seasons style</strong></li>
+</ul>
+<p><strong>Specs:</strong></p>
+</div>
+<ul>
+<li>13''(W) X 11''(H) X 5.5''(D)<br><br>
+</li>
+<li>
+<p>Back side zipper pouches. Roomy compartments</p>
+</li>
+<li>
+<p>Adjustable shoulder straps</p>
+</li>
+<li>
+<p>Inner fabric lining and tablet sleeve/divider</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Handbag</s:tag>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>Set of 2</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4529502715971</id>
+      <title>Brown &amp; Coffee</title>
+      <s:price currency="TWD">39.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4529502715971</id>
+      <title>Dark Grey</title>
+      <s:price currency="TWD">39.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4529502715971</id>
+      <title>Navy Blue</title>
+      <s:price currency="TWD">39.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4529502715971</id>
+      <title>Wine Red</title>
+      <s:price currency="TWD">39.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4396857425987</id>
+    <published>2020-02-07T16:50:23-08:00</published>
+    <updated>2020-02-07T16:50:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-6106-darling-hobo-style-shoulder-bag-4-colors"/>
+    <title>YD-6106 - Darling Hobo Style Shoulder Bag - 4 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD_6106_YEL.jpg?v=1629486006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# <b>YD 6106</b>
+</div>
+<div>  </div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Simplicity, Spacious &amp; Comfortable Design</strong></li>
+<li><strong>Easy outfit matching, no conflicts</strong></li>
+<li><strong>Chic, Fascinating and Quality all-in-one piece</strong></li>
+<li><strong>All-Seasons style</strong></li>
+</ul>
+<p><strong>Specs:</strong></p>
+</div>
+<ul>
+<li>12''(W) X 10.5''(H) X 4''(D)<br><br>
+</li>
+<li>
+<p>Back side zipper pouches. Roomy compartments</p>
+</li>
+<li>
+<p>Adjustable shoulder straps</p>
+</li>
+<li>
+<p>Inner fabric lining and tablet sleeve/divider</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4396857425987</id>
+      <title>Grey</title>
+      <s:price currency="TWD">24.00</s:price>
+      <s:sku>YD-6106-GRY</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4396857425987</id>
+      <title>Black</title>
+      <s:price currency="TWD">24.00</s:price>
+      <s:sku>YD-6106-BLK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4396857425987</id>
+      <title>Yellow</title>
+      <s:price currency="TWD">24.00</s:price>
+      <s:sku>YD-6106-YEL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4396857425987</id>
+      <title>Red</title>
+      <s:price currency="TWD">24.00</s:price>
+      <s:sku>YD-6106-RED</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4396845498435</id>
+    <published>2020-02-07T15:38:31-08:00</published>
+    <updated>2020-02-07T15:38:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-7348-darling-hobo-style-shoulder-bag-two-bag-set-2-colors"/>
+    <title>YD-7348 - Darling Hobo Shoulder Bag - 2 Bag Set - 2 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD_7348_Grey.jpg?v=1625335582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# <b>YD 7348</b>
+</div>
+<div>  </div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Simplicity, Spacious &amp; Comfortable Design</strong></li>
+<li><strong>Easy outfit matching, no conflicts</strong></li>
+<li><strong>Chic, Fascinating and Quality all-in-one piece</strong></li>
+<li><strong>All-Seasons style</strong></li>
+</ul>
+<p><strong>Specs:</strong></p>
+</div>
+<ul>
+<li>13''(W) X 11''(H) X 5.5''(D)<br><br>
+</li>
+<li>
+<p>Back side zipper pouches. Roomy compartments</p>
+</li>
+<li>
+<p>Adjustable shoulder straps</p>
+</li>
+<li>
+<p>Inner fabric lining and tablet sleeve/divider</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:tag>Set of 2</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4396845498435</id>
+      <title>Lite Grey / Blue Mix</title>
+      <s:price currency="TWD">36.00</s:price>
+      <s:sku>YD-7348-GRY</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4396845498435</id>
+      <title>Lite Khaki / Pink Mix</title>
+      <s:price currency="TWD">36.00</s:price>
+      <s:sku>YD-7348-KAK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4396804964419</id>
+    <published>2020-02-07T13:47:21-08:00</published>
+    <updated>2020-02-07T13:47:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-7350-darling-hobo-style-shoulder-bag-two-bag-set-4-colors"/>
+    <title>YD-7350 - Darling Hobo Style Shoulder Bag - 2 Bag Set - 4 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD_7350_Red.jpg?v=1629485990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            39.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# <b>YD 7350 </b>
+</div>
+<div><b></b></div>
+<div><b>2 Bag Set Hobo Bags! </b></div>
+<div><b>- 1x medium-large handbag with extra shoulder strap</b></div>
+<div><b>- 1x small-medium shoulder bag</b></div>
+<div>  </div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Simplicity, Spacious &amp; Comfortable Design</strong></li>
+<li><strong>Easy outfit matching, no conflicts</strong></li>
+<li><strong>Chic, Fascinating and Quality all-in-one piece</strong></li>
+<li><strong>All-Seasons style</strong></li>
+</ul>
+<p><strong>Specs:</strong></p>
+</div>
+<ul>
+<li>13''(W) X 11''(H) X 5.5''(D)<br><br>
+</li>
+<li>
+<p>Back side zipper pouches. Roomy compartments</p>
+</li>
+<li>
+<p>Adjustable shoulder straps</p>
+</li>
+<li>
+<p>Inner fabric lining and tablet sleeve/divider</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Set of 2</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4396804964419</id>
+      <title>Red</title>
+      <s:price currency="TWD">39.90</s:price>
+      <s:sku>YD-7350-RED</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4396804964419</id>
+      <title>Black</title>
+      <s:price currency="TWD">39.90</s:price>
+      <s:sku>YD-7350-BLK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4396804964419</id>
+      <title>Yellow</title>
+      <s:price currency="TWD">39.90</s:price>
+      <s:sku>YD-7350-YEL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4396804964419</id>
+      <title>Grey</title>
+      <s:price currency="TWD">39.90</s:price>
+      <s:sku>YD-7350-GRY</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4389954388035</id>
+    <published>2020-01-22T14:17:29-08:00</published>
+    <updated>2020-01-22T14:17:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-6007-darling-hobo-style-shoulder-bag-5-colors"/>
+    <title>YD-6007 - Darling Hobo Style Shoulder Bag - 5 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD_6007_Light_Brown.jpg?v=1629308144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# <b>YD 6007</b>
+</div>
+<div>  </div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Simplicity, Spacious &amp; Comfortable Design</strong></li>
+<li><strong>Easy outfit matching, no conflicts</strong></li>
+<li><strong>Chic, Fascinating and Quality all-in-one piece</strong></li>
+<li><strong>All-Seasons style</strong></li>
+</ul>
+<p><strong>Specs:</strong></p>
+</div>
+<ul>
+<li>12''(W) X 10.5''(H) X 4''(D)<br><br>
+</li>
+<li>
+<p>Back side zipper pouches. Roomy compartments</p>
+</li>
+<li>
+<p>Adjustable shoulder straps</p>
+</li>
+<li>
+<p>Inner fabric lining and tablet sleeve/divider</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389954388035</id>
+      <title>Light Brown</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>YD-6007-LBWN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389954388035</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>YD-6007-APC</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4389934858307</id>
+    <published>2020-01-22T12:21:53-08:00</published>
+    <updated>2020-01-22T12:21:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-6099-darling-hobo-style-shoulder-bag-5-colors"/>
+    <title>YD-6099 - Darling Hobo Style Shoulder Bag - 5 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD_6099_NAV.jpg?v=1604606510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# <b>YD 6099</b>
+</div>
+<div>  </div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Simplicity, Spacious &amp; Comfortable Design</strong></li>
+<li><strong>Easy outfit matching, no conflicts</strong></li>
+<li><strong>Chic, Fascinating and Quality all-in-one piece</strong></li>
+<li><strong>All-Seasons style</strong></li>
+</ul>
+<p><strong>Specs:</strong></p>
+</div>
+<ul>
+<li>13''(W) X 11''(H) X 5.5''(D)<br><br>
+</li>
+<li>
+<p>Back side zipper pouches. Roomy compartments</p>
+</li>
+<li>
+<p>Adjustable shoulder straps</p>
+</li>
+<li>
+<p>Inner fabric lining and tablet sleeve/divider</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389934858307</id>
+      <title>Navy Blue</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>YD-6099-NAV</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389934858307</id>
+      <title>Coffee Khaki</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>YD-6099-COF</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389934858307</id>
+      <title>Black</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>YD-6099-BLK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389934858307</id>
+      <title>Brown</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>YD-6099-BWN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389934858307</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>YD-6099-APC</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4389916770371</id>
+    <published>2020-01-22T11:24:02-08:00</published>
+    <updated>2020-01-22T11:24:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-6012-darling-hobo-style-shoulder-bag-5-colors"/>
+    <title>YD-6012 - Darling Hobo Style Shoulder Bag - 5 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD_6012_Dark_Green.jpg?v=1604606644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# <b>YD 6012</b>
+</div>
+<div>  </div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Simplicity, Spacious &amp; Comfortable Design</strong></li>
+<li><strong>Easy outfit matching, no conflicts</strong></li>
+<li><strong>Chic, Fascinating and Quality all-in-one piece</strong></li>
+<li><strong>All-Seasons style</strong></li>
+</ul>
+<p><strong>Specs:</strong></p>
+</div>
+<ul>
+<li>12''(W) X 9''(H) X 4''(D)<br><br>
+</li>
+<li>
+<p>Back side zipper pouches. Roomy compartments</p>
+</li>
+<li>
+<p>Adjustable shoulder straps</p>
+</li>
+<li>
+<p>Inner fabric lining and tablet sleeve/divider</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389916770371</id>
+      <title>Dark Green</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>YD-6012-DGRN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389916770371</id>
+      <title>Red</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>YD-6012-RED</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389916770371</id>
+      <title>Black</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>YD-6012-BLK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389916770371</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>YD-6012-APC</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389916770371</id>
+      <title>Khaki</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>YD-6012-KAK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4389911429187</id>
+    <published>2020-01-22T11:13:39-08:00</published>
+    <updated>2020-01-22T11:13:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-6008-darling-hobo-style-shoulder-bag-5-colors"/>
+    <title>YD-6008 - Darling Hobo Style Shoulder Bag - 5 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD_6008_Tap.jpg?v=1580513361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# <b>YD 6008</b>
+</div>
+<div>  </div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Simplicity, Spacious &amp; Comfortable Design</strong></li>
+<li><strong>Easy outfit matching, no conflicts</strong></li>
+<li><strong>Chic, Fascinating and Quality all-in-one piece</strong></li>
+<li><strong>All-Seasons style</strong></li>
+</ul>
+<p><strong>Specs:</strong></p>
+</div>
+<ul>
+<li>12''(W) X 10''(H) X 5''(D)<br><br>
+</li>
+<li>
+<p>Back side zipper pouches. Roomy compartments</p>
+</li>
+<li>
+<p>Adjustable shoulder straps</p>
+</li>
+<li>
+<p>Inner fabric lining and tablet sleeve/divider</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389911429187</id>
+      <title>Taupe (Yellow)</title>
+      <s:price currency="TWD">22.00</s:price>
+      <s:sku>YD-6008-TAU</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389911429187</id>
+      <title>Black</title>
+      <s:price currency="TWD">22.00</s:price>
+      <s:sku>YD-6008-BLK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389911429187</id>
+      <title>Brown</title>
+      <s:price currency="TWD">22.00</s:price>
+      <s:sku>YD-6008-BWN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389911429187</id>
+      <title>Light Brown</title>
+      <s:price currency="TWD">22.00</s:price>
+      <s:sku>YD-6008-LBWN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4389911429187</id>
+      <title>Grey (Beige)</title>
+      <s:price currency="TWD">22.00</s:price>
+      <s:sku>YD-6008-BGE</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4388315037763</id>
+    <published>2020-01-17T11:05:43-08:00</published>
+    <updated>2020-01-17T11:05:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-7365-darling-shell-shoulder-bag-6-colors"/>
+    <title>YD-7365 - Darling Shell Pattern Clutch - 6 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD-7365_Red.jpg?v=1579288141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>YD-7365 - Darling Shell Pattern Clutch - 6 Colors</strong></div>
+<br>
+<div>
+<meta charset="utf-8">
+<div><strong>Model# YD 7365</strong></div>
+<div><strong></strong></div>
+<div>
+<div>
+<meta charset="utf-8">
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Year-round design, flexible trend</strong></li>
+<li><strong>Sophisticated yet adorable style</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<br>
+<ul></ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 10''(W) X 6''(H) X 4''(D) </li>
+<li>12-24" adjustable crossbody strap</li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Top-zipper closure, Front &amp; Back zipper pocket</li>
+<li>Inner zip and cell phone pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4388315037763</id>
+      <title>Red</title>
+      <s:price currency="TWD">18.00</s:price>
+      <s:sku>YD-7365-RED</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4388315037763</id>
+      <title>Black</title>
+      <s:price currency="TWD">18.00</s:price>
+      <s:sku>YD-7365-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4388315037763</id>
+      <title>Dark Green</title>
+      <s:price currency="TWD">18.00</s:price>
+      <s:sku>YD-7365-DGRN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4388315037763</id>
+      <title>Navy Blue</title>
+      <s:price currency="TWD">18.00</s:price>
+      <s:sku>YD-7365-NAV</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4388315037763</id>
+      <title>Grey</title>
+      <s:price currency="TWD">18.00</s:price>
+      <s:sku>YD-7365-GRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4388315037763</id>
+      <title>Brown</title>
+      <s:price currency="TWD">18.00</s:price>
+      <s:sku>YD-7365-BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4388313169987</id>
+    <published>2020-01-17T10:54:33-08:00</published>
+    <updated>2020-01-17T10:54:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-7366-darling-shell-shoulder-bag-6-colors"/>
+    <title>YD-7366 - Darling Egg Shell Clutch - 6 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD-7366_Teal.jpg?v=1601066019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>YD-7366 - Darling Egg Shell Clutch - 6 Colors</strong></div>
+<br>
+<div>
+<meta charset="utf-8">
+<div><strong>Model# YD 7366</strong></div>
+<div><strong></strong></div>
+<div>
+<div>
+<meta charset="utf-8">
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Year-round design, flexible trend</strong></li>
+<li><strong>Sophisticated yet fun style</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<br>
+<ul></ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 10''(W) X 6''(H) X 4''(D) </li>
+<li>12-24" adjustable crossbody strap</li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Top-zipper closure, Front &amp; Back zipper pocket</li>
+<li>Inner zip and cell phone pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4388313169987</id>
+      <title>Red</title>
+      <s:price currency="TWD">18.00</s:price>
+      <s:sku>YD-7366-RED</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4388313169987</id>
+      <title>Black</title>
+      <s:price currency="TWD">18.00</s:price>
+      <s:sku>YD-7366-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4388313169987</id>
+      <title>Dark Green</title>
+      <s:price currency="TWD">18.00</s:price>
+      <s:sku>YD-7366-DGRN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4388313169987</id>
+      <title>Navy Blue</title>
+      <s:price currency="TWD">18.00</s:price>
+      <s:sku>YD-7366-NAV</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4388313169987</id>
+      <title>Grey</title>
+      <s:price currency="TWD">18.00</s:price>
+      <s:sku>YD-7366-GRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4388313169987</id>
+      <title>Brown</title>
+      <s:price currency="TWD">18.00</s:price>
+      <s:sku>YD-7366-BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4387144958019</id>
+    <published>2020-01-14T12:26:29-08:00</published>
+    <updated>2020-01-14T12:26:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-7383-darling-urban-shoulder-bag-3-colors"/>
+    <title>YD-7383 - Darling Urban Crossbody Bag - 3 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD-7383.jpg?v=1580930728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>YD-7383 - Darling Urban Crossbody Bag - 3 Colors</strong></div>
+<br>
+<div>
+<meta charset="utf-8">
+<div><strong>Model# YD 7383</strong></div>
+<div>
+<strong><strong>Features:</strong></strong><br><strong></strong>
+</div>
+<div>
+<div>
+<ul>
+<li><strong>Year-round design, flexible trend</strong></li>
+<li><strong>Sophisticated and functional city-bag style</strong></li>
+<li><strong>No concern for any Seasonal sale difficulties</strong></li>
+</ul>
+<strong>Specs:</strong><br>
+</div>
+<ul>
+<li>Size: 9''(W) X 5.5''(H) X 4''(D) </li>
+<li>12-24" adjustable crossbody strap</li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Triple zipper compartments</li>
+<li>Inner zip pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Casual</s:tag>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387144958019</id>
+      <title>Black</title>
+      <s:price currency="TWD">24.00</s:price>
+      <s:sku>YD-7383-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387144958019</id>
+      <title>Brown</title>
+      <s:price currency="TWD">24.00</s:price>
+      <s:sku>YD-7383-BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387144958019</id>
+      <title>Red</title>
+      <s:price currency="TWD">24.00</s:price>
+      <s:sku>YD-7383-RED</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4387134898243</id>
+    <published>2020-01-14T11:54:08-08:00</published>
+    <updated>2020-01-14T11:54:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-8215-darling-urban-shoulder-bag-6-colors"/>
+    <title>YD-8215 - Darling Diamond Shell Pattern Crossbody Bag - 6 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD-8215_Teal.png?v=1624572788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            17.50 - 105.00
+            <a href="https://www.darlingstrading.com/products/yd-8215-darling-urban-shoulder-bag-6-colors">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>YD-8215 - Darling Diamond Shell Pattern Crossbody Bag - 6 Colors</strong></div>
+<br>
+<div>
+<meta charset="utf-8">
+<div><strong>Model# YD 8215</strong></div>
+<div><strong></strong></div>
+<div>
+<div>
+<meta charset="utf-8">
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Year-round design, flexible trend</strong></li>
+<li><strong>Sophisticated and functional city-bag style</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 10''(W) X 6''(H) X 4''(D) </li>
+<li>12-24" adjustable crossbody strap</li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Top-zipper closure</li>
+<li>Inner zip pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+<ul></ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:tag>Urban</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387134898243</id>
+      <title>Teal</title>
+      <s:price currency="TWD">17.50</s:price>
+      <s:sku>YD-8215-TEAL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387134898243</id>
+      <title>Grey</title>
+      <s:price currency="TWD">17.50</s:price>
+      <s:sku>YD-8215-GRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387134898243</id>
+      <title>Navy</title>
+      <s:price currency="TWD">17.50</s:price>
+      <s:sku>YD-8215-NAV</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387134898243</id>
+      <title>Black</title>
+      <s:price currency="TWD">17.50</s:price>
+      <s:sku>YD-8215-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387134898243</id>
+      <title>Red</title>
+      <s:price currency="TWD">17.50</s:price>
+      <s:sku>YD-8215-RED</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387134898243</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">17.50</s:price>
+      <s:sku>YD-8215-APC</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387134898243</id>
+      <title>1 of each, Total 6</title>
+      <s:price currency="TWD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4387125166147</id>
+    <published>2020-01-14T11:36:30-08:00</published>
+    <updated>2020-01-14T11:36:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-7384-darling-urban-shoulder-bag-6-colors"/>
+    <title>YD-7384 - Darling&apos;s Crossbody Bag - 12 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD-7384_Purple.png?v=1622589918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            15.00 - 180.00
+            <a href="https://www.darlingstrading.com/products/yd-7384-darling-urban-shoulder-bag-6-colors">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>YD-7384 - Darling Diamond Crossbody Bag - 12 Colors</strong></div>
+<br>
+<div>
+<meta charset="utf-8">
+<div><strong>Model# YD 7384</strong></div>
+<div><strong></strong></div>
+<div>
+<div>
+<meta charset="utf-8"> <strong>Features:</strong><br>
+<ul>
+<li><strong>Year-round design, flexible trend</strong></li>
+<li><strong>Sophisticated and functional city-bag style</strong></li>
+<li><strong>Elegant &amp; Stylish, Special zipper design</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 10''(W) X 6''(H) X 4''(D) </li>
+<li>12-24" adjustable crossbody strap</li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Top-zipper closure</li>
+<li>Inner zip pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:tag>Urban</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>Purple</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>YD-7384-PPL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>Red</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>YD-7384-RED</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>YD-7384-APC</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>Yellow</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>YD-7384-YEL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>Grey</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>YD-7384-GRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>Light Grey</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>YD-7384-LGRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>Pink</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>YD-7384-PNK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>Black</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>YD-7384-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>Navy</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>YD-7384-NAVY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>Silver</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>YD-7384-SIL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>Brown</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>YD-7384-BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>Teal</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>YD-7384-TEAL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387125166147</id>
+      <title>1 of each, Total 12</title>
+      <s:price currency="TWD">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/3949031292995</id>
+    <published>2019-08-08T12:10:00-07:00</published>
+    <updated>2019-08-08T12:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/gs-250-made-simple-patent-tote-6-colors"/>
+    <title>GS-250 - Made Simple 3 Zips - 6 Colors</title>
+    <s:type>Tote Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/GS-250_Red_A.jpg?v=1629395975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Tote Bag<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>GS-250 - Made Simple Patent Bag - 5 Colors</strong></div>
+<br>
+<div></div>
+Classic and Elegant.
+<div></div>
+<div>Chic functional city handbag, perfect for many different occasions.</div>
+<br>
+<ul>
+<li><strong>Model # GS 250</strong></li>
+<li><span style="line-height: 1.5;">Premium Vegan Leather</span></li>
+<li>3 Zip Top Closure &amp; Back Zip Pocket</li>
+<li>Come with Long Shoulder Strap</li>
+<li>Classy, Elegant Colours</li>
+<li>Functional and Classic Design</li>
+<li>16.5''(L) X 10.5''(H) X 5''(W)</li>
+<ul>
+<li>9" Handles</li>
+</ul>
+<ul></ul>
+<li><span style="font-size: 1.07143rem; letter-spacing: initial; line-height: 1.42857rem; text-transform: initial;">Shipped from Canada / US</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Handbag</s:tag>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3949031292995</id>
+      <title>Brown</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>GS-250-BWN</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3949031292995</id>
+      <title>Camel</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>GS-250-CAM</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3949031292995</id>
+      <title>Red</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>GS-250-RED</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3949031292995</id>
+      <title>Black</title>
+      <s:price currency="TWD">23.00</s:price>
+      <s:sku>GS-250-BLK</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/3948247875651</id>
+    <published>2019-08-07T11:50:40-07:00</published>
+    <updated>2019-08-07T11:50:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-6059-your-darling-convertible-handbag-4-colors"/>
+    <title>YD-6059 - Darling Convertible Handbag - 3 Bag Set 4 Colors</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD-6059_NAV_Combo.jpg?v=1629485937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>YD-6059 - Darling Convertible Handbag - 3 Bag Set 4 Colors</strong></div>
+<p> </p>
+<div>
+<meta charset="utf-8">
+<div><strong>Model# YD 6059</strong></div>
+<div><strong></strong></div>
+<div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Year-round design, flexible trend</strong></li>
+<li><strong>Makes a special city bag collection</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 10.5''(W) X 9''(H) X 4''(D) <br>         9<span>''(W) X 7''(H) X 4''(D) <br>         7.5''(W) X 8''(H) X 3''(D) </span>
+</li>
+<li>6" drop handles and 12-24" adjustable crossbody strap</li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Main zipper closure</li>
+<li>Inner zip pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Handbag</s:tag>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:tag>Set of 2</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:tag>Urban</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3948247875651</id>
+      <title>Black</title>
+      <s:price currency="TWD">50.00</s:price>
+      <s:sku>YD6059-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3948247875651</id>
+      <title>Wine Red</title>
+      <s:price currency="TWD">50.00</s:price>
+      <s:sku>YD6059-RED</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3948247875651</id>
+      <title>Navy Blue</title>
+      <s:price currency="TWD">50.00</s:price>
+      <s:sku>YD6059-BLU</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3948247875651</id>
+      <title>Brown Wheat</title>
+      <s:price currency="TWD">50.00</s:price>
+      <s:sku>YD6059-BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/3867490091075</id>
+    <published>2019-06-26T16:16:17-07:00</published>
+    <updated>2019-06-26T16:16:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/hy-1076-made-simple-handbag-4-colors"/>
+    <title>HY-1076 - Made Simple Handbag - 4 Colors</title>
+    <s:type>Handbag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HY-1076_Camel.jpg?v=1571438548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Handbag<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# <strong>HY 1076</strong>
+</div>
+<div>  </div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Simplicity, Spacious &amp; Comfortable Design</strong></li>
+<li><strong>Easy outfit matching, no conflicts</strong></li>
+<li><strong>Chic, Fascinating and Quality all-in-one piece</strong></li>
+<li><strong>All-Seasons style</strong></li>
+</ul>
+<p><strong>Specs:</strong></p>
+</div>
+<ul>
+<li>10''(W) X 9''(H) X 3.5''(D)<br><br>
+</li>
+<li>
+<p>Front pouch. Roomy compartments</p>
+</li>
+<li>
+<p>Adjustable shoulder straps</p>
+</li>
+<li>
+<p>Inner fabric lining</p>
+</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Handbag</s:tag>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3867490091075</id>
+      <title>Light Brown</title>
+      <s:price currency="TWD">20.00</s:price>
+      <s:sku>HY-1076-LBWN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3867490091075</id>
+      <title>Camel</title>
+      <s:price currency="TWD">20.00</s:price>
+      <s:sku>HY-1076-CML</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3867490091075</id>
+      <title>Dark Green</title>
+      <s:price currency="TWD">20.00</s:price>
+      <s:sku>HY-1076-DGRN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/3867012530243</id>
+    <published>2019-06-26T11:18:05-07:00</published>
+    <updated>2019-06-26T11:18:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/hy-846-made-simple-shoulder-bag-small-5-colors"/>
+    <title>HY-846 - Made Simple Shoulder Bag - Small - 5 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/846_Apt_1.jpg?v=1571438548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# <strong>HY 846</strong>
+</div>
+<div>  </div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Simplicity, Spacious &amp; Comfortable Design</strong></li>
+<li><strong>Easy outfit matching, no conflicts</strong></li>
+<li><strong>Chic, Fascinating and Quality all-in-one piece</strong></li>
+<li><strong>All-Seasons style</strong></li>
+</ul>
+<p><strong>Specs:</strong></p>
+</div>
+<ul>
+<li>8''(W) X 5.5''(H) X 3.5''(D)<br><br>
+</li>
+<li>
+<p>Back side pocket. Roomy compartments</p>
+</li>
+<li>
+<p>Adjustable shoulder straps</p>
+</li>
+<li>
+<p>Inner fabric lining</p>
+</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3867012530243</id>
+      <title>Brown</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-846-BWN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3867012530243</id>
+      <title>Black</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-846-BLK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3867012530243</id>
+      <title>Grey</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-846-GRY</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3867012530243</id>
+      <title>Pink</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-846-PNK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3867012530243</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-846-APC</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/3866989363267</id>
+    <published>2019-06-26T11:05:06-07:00</published>
+    <updated>2019-06-26T11:05:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/hy-888-made-simple-shoulder-bag-4-colors"/>
+    <title>HY-888 - Made Simple Shoulder Bag - 4 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/888_Brown.jpg?v=1571438548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# <strong>HY 888</strong>
+</div>
+<div>  </div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Simplicity, Spacious &amp; Comfortable Design</strong></li>
+<li><strong>Easy outfit matching, no conflicts</strong></li>
+<li><strong>Chic, Fascinating and Quality all-in-one piece</strong></li>
+<li><strong>All-Seasons style</strong></li>
+</ul>
+<p><strong>Specs:</strong></p>
+</div>
+<ul>
+<li>10''(W) X 9''(H) X 3.5''(D)<br><br>
+</li>
+<li>
+<p>Roomy compartments</p>
+</li>
+<li>
+<p>Adjustable shoulder straps</p>
+</li>
+<li>
+<p>Inner fabric lining</p>
+</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3866989363267</id>
+      <title>Black</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-888-BLK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3866989363267</id>
+      <title>Burgundy</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-888-BUR</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3866989363267</id>
+      <title>Brown</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-888-BWN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3866989363267</id>
+      <title>Green</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-888-GRN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/3866917011523</id>
+    <published>2019-06-26T10:24:34-07:00</published>
+    <updated>2019-06-26T10:24:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/hy-995-made-simple-shoulder-bag-4-colors"/>
+    <title>HY-995 - Made Simple Shoulder Bag - 4 Colors</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/995_Brown_1.jpg?v=1571438548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# <strong>HY 995</strong>
+</div>
+<div>  </div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong>Simplicity, Spacious &amp; Comfortable Design</strong></li>
+<li><strong>Easy outfit matching, no conflicts</strong></li>
+<li><strong>Chic, Fascinating and Quality all-in-one piece</strong></li>
+<li><strong>All-Seasons style</strong></li>
+</ul>
+<p><strong>Specs:</strong></p>
+</div>
+<ul>
+<li>10''(W) X 9''(H) X 3.5''(D)<br><br>
+</li>
+<li>
+<p>Roomy compartments</p>
+</li>
+<li>
+<p>Adjustable shoulder straps</p>
+</li>
+<li>
+<p>Inner fabric lining</p>
+</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3866917011523</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-995-APC</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3866917011523</id>
+      <title>Brown</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-995-BWN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3866917011523</id>
+      <title>Green</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-995-GRN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/3866917011523</id>
+      <title>Black</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>HY-995-BLK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

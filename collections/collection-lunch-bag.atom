@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.darlingstrading.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.darlingstrading.com/collections/collection-lunch-bag.atom"/>
+  <title>Darling&apos;s Canada</title>
+  <updated>2021-07-25T16:20:25-07:00</updated>
+  <author>
+    <name>Darling&apos;s Canada</name>
+  </author>
+  <entry>
+    <id>https://www.darlingstrading.com/products/320162453</id>
+    <published>2021-07-25T16:20:25-07:00</published>
+    <updated>2021-07-25T16:20:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/copy-of-darlings-simple-stripe-large-lunch-bag"/>
+    <title>CL601-2 - Large Lunch Bag - Sliver/Black</title>
+    <s:type>Lunch Bags</s:type>
+    <s:vendor>Darling&apos;s Lunch Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/CL601-2.jpg?v=1571438520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s Lunch Bags<br>
+        <strong>Type: </strong>Lunch Bags<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Darling's Heat-sealed Large Lunch Bag<br><br></strong>
+<li><span>Model# <strong>CL601-2 Sliver and Black</strong></span></li>
+<li><span>13''(L) X 10''(H) X 7''(W)</span></li>
+<li>Heat-sealed and water resistant material</li>
+<li>Leak-proof lining</li>
+<li><span>Handle with 4" drop </span></li>
+<li><span>Adjustable cross-body strap 10"-20"</span></li>
+<li><span><span>Main zip-top closure</span></span></li>
+<li><span>Shipped from Canada / US</span></li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Lunch</s:tag>
+    <s:tag>Misc.</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/320162453</id>
+      <title>Sliver &amp; Black</title>
+      <s:price currency="TWD">8.00</s:price>
+      <s:sku>CL601-2-BLK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/320276929</id>
+    <published>2014-05-27T14:53:00-07:00</published>
+    <updated>2014-05-27T14:53:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-individual-small-lunch-bag"/>
+    <title>CL136 - Individual Lunch Bag</title>
+    <s:type>Lunch Bags</s:type>
+    <s:vendor>Darling&apos;s Lunch Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/CL136.jpg?v=1571438521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s Lunch Bags<br>
+        <strong>Type: </strong>Lunch Bags<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Darling's Individual Lunch Bag<br><br></strong>
+<li><span>Model# <strong>CL136</strong></span></li>
+<li><span>8''(L) X 6''(H) X 7''(W) </span></li>
+<li>
+<span></span>Nylon Leather</li>
+<li>Heat-sealed, leak-proof lining</li>
+<li>Water resistant</li>
+<li><span>Handle with 2" drop</span></li>
+<li><span>Adjustable shoulder strap 10"-20"</span></li>
+<li><span><span>Main zip-top closure</span></span></li>
+<li>
+<span><span></span></span><span class="a-list-item"><span class="a-list-item">Front zip pocket</span></span>
+</li>
+<li><span>Shipped from Canada / US</span></li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Lunch</s:tag>
+    <s:tag>Misc.</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/320276929</id>
+      <title>Navy</title>
+      <s:price currency="TWD">4.00</s:price>
+      <s:sku>CL136</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/320276929</id>
+      <title>Black</title>
+      <s:price currency="TWD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/320209737</id>
+    <published>2014-05-27T12:56:21-07:00</published>
+    <updated>2014-05-27T12:56:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-double-deck-medium-lunch-bag-1"/>
+    <title>CL1012 - Double-deck Lunch Bag - Medium Small - 2 Colors</title>
+    <s:type>Lunch Bags</s:type>
+    <s:vendor>Darling&apos;s Lunch Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/CL1012_RED_Medium_952a7b8b-379a-46a5-83cb-af7566891861.jpg?v=1622233587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s Lunch Bags<br>
+        <strong>Type: </strong>Lunch Bags<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Darling's Double-deck Medium Lunch Bag - 2 Colors<br><br></strong>
+<li><span>Model# <strong>CL1012</strong></span></li>
+<li><span>9.5''(L) X 7''(H) X 9''(W)</span></li>
+<li>
+<span></span>Nylon Leather</li>
+<li>Heat-sealed, leak-proof lining</li>
+<li>Water Resistant</li>
+<li><span>Handle with 2" drop</span></li>
+<li><span>Adjustable cross-body strap 10"-20"</span></li>
+<li><span><span>Main zip-top closure and topping snacks storage</span></span></li>
+<li>
+<span><span></span></span><span class="a-list-item"><span class="a-list-item">Front slit pocket; M<span>esh </span></span></span>partition</li>
+<li><span>Shipped from Canada / US</span></li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Lunch</s:tag>
+    <s:tag>Misc.</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/320209737</id>
+      <title>Navy</title>
+      <s:price currency="TWD">5.00</s:price>
+      <s:sku>ST026-NAV</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/320209737</id>
+      <title>Red</title>
+      <s:price currency="TWD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

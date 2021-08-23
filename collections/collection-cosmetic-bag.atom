@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.darlingstrading.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.darlingstrading.com/collections/collection-cosmetic-bag.atom"/>
+  <title>Darling&apos;s Canada</title>
+  <updated>2021-01-07T21:47:58-08:00</updated>
+  <author>
+    <name>Darling&apos;s Canada</name>
+  </author>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4618278043715</id>
+    <published>2021-01-07T21:47:58-08:00</published>
+    <updated>2021-01-07T21:47:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-152-darling-leatherette-tote-cosmetic-8-colors"/>
+    <title>YD-152 - Darling Leatherette Tote + Cosmetic - 8 Colors</title>
+    <s:type>Tote Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD152NAV.jpg?v=1629348927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Tote Bag<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><b>YD-152 - Darling Leatherette Tote Bag + Cosmetic Bag Set - 8 Colors<br><br></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div>
+<meta charset="utf-8">
+<div><strong>2021 New Design～ Leather like looking and feel，durable new material<br><br></strong></div>
+<div><strong></strong></div>
+<div><strong></strong></div>
+<div><strong>Model# YD 152</strong></div>
+<div><strong></strong></div>
+<div>
+<div>
+<strong>Features:</strong>
+<ul>
+<li><strong>Urban style, easy-seller<br></strong></li>
+<li><strong>Year-round design, flexible trend</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 16''(W) X 11''(H) X 5''(D) </li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Inner zip pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cosmetic</s:tag>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Navy Blue</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-NAV</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Turmeric</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-YEL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-APC</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Coral (Orange Pink)</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-ORG</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Light Brown</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-LBWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Brown</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Grey</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-GRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618278043715</id>
+      <title>Black</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-152-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4618273062979</id>
+    <published>2021-01-07T21:30:19-08:00</published>
+    <updated>2021-01-07T21:30:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-8116-darling-leatherette-tote-cosmetic-8-colors"/>
+    <title>YD-8116 - Darling Leatherette Tote + Cosmetic - 8 Colors</title>
+    <s:type>Tote Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD8116GRY.jpg?v=1629348978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Tote Bag<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><b>YD-8116 - Darling Leatherette Tote Bag + Cosmetic Bag Set - 8 Colors<br><br></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div>
+<meta charset="utf-8">
+<div><strong>2021 New Design～ Leather like looking and feel，durable new material<br><br></strong></div>
+<div><strong></strong></div>
+<div><strong></strong></div>
+<div><strong>Model# YD 8116</strong></div>
+<div><strong></strong></div>
+<div>
+<div>
+<strong>Features:</strong>
+<ul>
+<li><strong>Urban style, easy-seller<br></strong></li>
+<li><strong>Year-round design, flexible trend</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>Size: 16''(W) X 11''(H) X 5''(D) </li>
+<li>Substantial PU leather</li>
+<li>Fabric lining</li>
+<li>Inner zip pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cosmetic</s:tag>
+    <s:tag>Made Simple</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Grey</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-GRY</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Navy Blue</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-NAV</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Light Brown</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-LBWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Brown</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-BWN</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Coral / Orange Pink</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-COR</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Apricot</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-APC</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Turmeric</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-YEL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4618273062979</id>
+      <title>Black</title>
+      <s:price currency="TWD">29.00</s:price>
+      <s:sku>YD-8116-BLK</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/334637161</id>
+    <published>2014-06-24T12:42:00-07:00</published>
+    <updated>2014-06-24T12:42:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/beads-cosmetic-bag-large-1"/>
+    <title>CD2409 - Beads Cosmetic Bag Small - Red</title>
+    <s:type>Cosmetic Bag</s:type>
+    <s:vendor>Misc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/CD2409-RED.jpg?v=1571438535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Misc.<br>
+        <strong>Type: </strong>Cosmetic Bag<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Beads Cosmetic Bag Small - Red<br><br></strong>
+<li><strong>Model# CD 2409 Red</strong></li>
+<li>5''(L) X 3.5''(H) x 2"(D)</li>
+<li><span style="line-height: 1.5;">Zip-top closure</span></li>
+<li>Shipped from Canada / US</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Cosmetic</s:tag>
+    <s:tag>Misc.</s:tag>
+    <s:tag>Purse</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/334637161</id>
+      <title>Beads Cosmetic Bag Small - RED</title>
+      <s:price currency="TWD">4.00</s:price>
+      <s:sku>CD2409-RED</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/331872337</id>
+    <published>2014-06-18T14:19:00-07:00</published>
+    <updated>2014-06-18T14:19:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/dollyclube04s"/>
+    <title>Cosmetic Bag (E04S) by Dolly Club - Small</title>
+    <s:type>Cosmetic Bag</s:type>
+    <s:vendor>Dolly Club</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HD_E04S_028.jpg?v=1571438534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolly Club<br>
+        <strong>Type: </strong>Cosmetic Bag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Model# HD-E04S</strong></li>
+<li>5''(L) X 5''(H) X 3''(W)</li>
+<li>Laminated water-repellent fabric </li>
+<li>Metal frame</li>
+<li>Random unique pattern</li>
+<li><span>Main zip-top and buckle closure</span></li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cosmetic</s:tag>
+    <s:tag>Dolly Club</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/331872337</id>
+      <title>HD-E04S-403 Red Teddy</title>
+      <s:price currency="TWD">10.00</s:price>
+      <s:sku>HD-E04S-403</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/331868393</id>
+    <published>2014-06-18T14:14:00-07:00</published>
+    <updated>2014-06-18T14:14:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/dollyclube03"/>
+    <title>Cosmetic Bag (E03) by Dolly Club - Large</title>
+    <s:type>Cosmetic Bag</s:type>
+    <s:vendor>Dolly Club</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HDE03_403.jpg?v=1571438534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolly Club<br>
+        <strong>Type: </strong>Cosmetic Bag<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Model# HD-E03</strong></li>
+<li>9''(L) X 5''(H) X 3''(W)</li>
+<li>Laminated water-repellent fabric </li>
+<li>Random unique pattern</li>
+<li><span>Main zip-top and buckle closure</span></li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cosmetic</s:tag>
+    <s:tag>Dolly Club</s:tag>
+    <s:tag>On Sale</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/331868393</id>
+      <title>HD-E03-028 Elephant</title>
+      <s:price currency="TWD">7.00</s:price>
+      <s:sku>HD-E03-028</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/331868393</id>
+      <title>HD-E03-403 Pink Teddy</title>
+      <s:price currency="TWD">7.00</s:price>
+      <s:sku>HD-E03-403</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/331868393</id>
+      <title>HD-E03-355 UK News</title>
+      <s:price currency="TWD">7.00</s:price>
+      <s:sku>HD-E03-355</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/331868393</id>
+      <title>HD-E03-457 Black Teddy</title>
+      <s:price currency="TWD">7.00</s:price>
+      <s:sku>HD-E03-457</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

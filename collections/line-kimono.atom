@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.darlingstrading.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.darlingstrading.com/collections/line-kimono.atom"/>
+  <title>Darling&apos;s Canada</title>
+  <updated>2021-06-02T14:19:41-07:00</updated>
+  <author>
+    <name>Darling&apos;s Canada</name>
+  </author>
+  <entry>
+    <id>https://www.darlingstrading.com/products/217185197</id>
+    <published>2021-06-02T14:19:41-07:00</published>
+    <updated>2021-06-02T14:19:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-traditional-fabric-hairpin"/>
+    <title>APD013 - Kimono Single Hairpin</title>
+    <s:type>Hair Clips</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/APD_013.jpg?v=1571438516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Hair Clips<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>Model# <strong>APD 013</strong></span></li>
+<li><span>5.75" (L) x 0.8" Diameter each flower</span></li>
+<li><span>Traditional Kimono Quality Fabric</span></li>
+<li><span>Shipping from Canada / US</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/217185197</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">9.00</s:price>
+      <s:sku>APD013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/320864321</id>
+    <published>2020-01-03T00:26:40-08:00</published>
+    <updated>2020-01-03T00:26:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-ipad-mini-cross-body-bag-2"/>
+    <title>HPD065 - Shoulder Bag fits Mini Tablet - Purple</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HPD_065_Bur.jpg?v=1571438521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Shoulder Bag fits Mini Tablet - Purple<br><br></strong>
+<li>Model#  <strong>HPD 065 Purple</strong>
+</li>
+<li>7''(L) X 9''(H) X 0.5''(W)</li>
+<li>Kimono Fabric &amp; Faux Suede</li>
+<li>Fabric Lining</li>
+<li>Main zip closure </li>
+<li>Front and inner zip compartments &amp; cellphone pockets</li>
+<li>Cross-body strap</li>
+<li>Shipped from Canada / US</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPad</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/320864321</id>
+      <title>HPD065-PUR</title>
+      <s:price currency="TWD">25.00</s:price>
+      <s:sku>HPD-065-PUR</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/320958077</id>
+    <published>2020-01-03T00:26:29-08:00</published>
+    <updated>2020-01-03T00:26:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-s-hair-pick"/>
+    <title>APD017 - Kimono S-shape Hair Pick</title>
+    <s:type>Hair Clips</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/APD_017-1.jpg?v=1571438521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Hair Clips<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Kimono S-shape Hair Pick<br><br></strong>
+<li>
+<span style="line-height: 1.5;">Model# </span><strong style="line-height: 1.5;">APD 017</strong>
+</li>
+<li><span style="line-height: 1.5;">3.5" (L) x 1.5" (W)</span></li>
+<li><span style="line-height: 1.5;">Traditional Kimono Quality Fabric</span></li>
+<li><span style="line-height: 1.2;">Random pattern</span></li>
+<li><span style="line-height: 1.5;">Shipping from Canada / US</span></li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/320958077</id>
+      <title>S-shape Hair Pick</title>
+      <s:price currency="TWD">5.00</s:price>
+      <s:sku>APD-017</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/320982989</id>
+    <published>2020-01-03T00:26:21-08:00</published>
+    <updated>2020-01-03T00:26:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-pearl-flower-hair-tie"/>
+    <title>APD040 - Kimono Pearl Flower Hair Tie</title>
+    <s:type>Hair Clips</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/APD_040s.jpg?v=1571438521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Hair Clips<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Model# <strong>APD 040</strong>
+</li>
+<li>1" Diameter</li>
+<li>Traditional Kimono Quality Fabric</li>
+<li>Shipping from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/320982989</id>
+      <title>Pearl Flower</title>
+      <s:price currency="TWD">3.00</s:price>
+      <s:sku>APD-040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/322794665</id>
+    <published>2020-01-03T00:26:13-08:00</published>
+    <updated>2020-01-03T00:26:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-traditional-fabric-hair-claw-small"/>
+    <title>APD016 - Kimono Leaf Shaped Hair Claw - Small</title>
+    <s:type>Hair Clips</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/APD016a.jpg?v=1571438521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Hair Clips<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Kimono Leaf Shaped Hair Claw Small<br><br></strong>
+<li>Model# <strong>APD 016 Small</strong>
+</li>
+<li>4" (L) x 2.25" (W)</li>
+<li>Traditional Kimono Quality Fabric</li>
+<li>Shipping from Canada / US</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/322794665</id>
+      <title>Leaf Shaped Hair Claw Small</title>
+      <s:price currency="TWD">5.00</s:price>
+      <s:sku>APD-016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/322000869</id>
+    <published>2020-01-03T00:26:04-08:00</published>
+    <updated>2020-01-03T00:26:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-wallet-long"/>
+    <title>WPD006 - Kimono Wallet Long</title>
+    <s:type>Wallet</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WPD006008.jpg?v=1571438521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Wallet<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Kimono Wallet Long<br><br></strong>
+<li>Model# <strong>WPD 006</strong>
+</li>
+<li>Long wallets 8''(L) X 4''(H) X 1''(W)</li>
+<li>Traditional Kimono quality fabric</li>
+<li><span style="line-height: 1.5;">Main zip-top closure</span></li>
+<li><span>Bills and credit card slots</span></li>
+<li>Shipped from Canada / US</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kimono</s:tag>
+    <s:tag>Purse</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/322000869</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">20.00</s:price>
+      <s:sku>WPD-006</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/320879253</id>
+    <published>2020-01-03T00:25:54-08:00</published>
+    <updated>2020-01-03T00:25:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-ipad-cross-body-bag-brown"/>
+    <title>HPD066 - Kimono Tablet Shoulder Bag - Grey</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HPD_066-Gray-1.jpg?v=1571438521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Kimono Tablet Shoulder Bag - Grey<br><br></strong>
+<li>Model# <strong>HPD 066 GRY</strong>
+</li>
+<li>9''(L) X 11''(H) X 0.5''(W)</li>
+<li>Kimono Fabric &amp; Faux Suede</li>
+<li>Fabric Lining</li>
+<li><span>Main zip closure</span></li>
+<li>
+<span></span>Front and inner zip compartments &amp; cellphone pockets</li>
+<li>Adjustable Cross-body strap</li>
+<li>Shipped from Canada / US</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPad</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/320879253</id>
+      <title>HPD066-GRY</title>
+      <s:price currency="TWD">30.00</s:price>
+      <s:sku>HPD-066-GRY</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/320866077</id>
+    <published>2020-01-03T00:25:41-08:00</published>
+    <updated>2020-01-03T00:25:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-ipad-mini-cross-body-bag-5"/>
+    <title>HPD065 - Shoulder Bag fits Mini Tablet - Light Brown</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HPD_065-42.jpg?v=1571438521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="line-height: 1.5;"><strong>Shoulder Bag fits Mini Tablet - Light Brown</strong><br><br>Model#  </span><strong style="line-height: 1.5;">HPD 065 Light Brown</strong></p>
+<p><strong style="line-height: 1.5;">Spec.</strong></p>
+<ul>
+<li>7''(L) X 9''(H) X 0.5''(W)</li>
+<li>Perfect fit for iPad Mini</li>
+<li>Kimono Fabric &amp; Faux Suede</li>
+<li>Fabric Lining</li>
+<li>Main zip closure </li>
+<li>Front and inner zip compartments &amp; cellphone pockets</li>
+<li>Leather strap</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPad</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/320866077</id>
+      <title>HPD065-ORG</title>
+      <s:price currency="TWD">25.00</s:price>
+      <s:sku>HPD-065-ORG</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/320865325</id>
+    <published>2020-01-03T00:25:32-08:00</published>
+    <updated>2020-01-03T00:25:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-ipad-mini-cross-body-bag-4"/>
+    <title>HPD065 - Shoulder Bag fits Mini Tablet - Pink</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HPD_065-21.jpg?v=1571438521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Shoulder Bag fits Mini Tablet - Pink<br><br></strong>
+<li>Model#  <strong>HPD 065 Pink</strong>
+</li>
+<li>7''(L) X 9''(H) X 0.5''(W)</li>
+<li>Kimono Fabric &amp; Faux Suede</li>
+<li>Fabric Lining</li>
+<li>Main zip closure </li>
+<li>Front and inner zip compartments &amp; cellphone pockets</li>
+<li>Cross-body strap</li>
+<li>Shipped from Canada / US</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPad</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/320865325</id>
+      <title>HPD065-PNK</title>
+      <s:price currency="TWD">25.00</s:price>
+      <s:sku>HPD-065-PNK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/320864761</id>
+    <published>2020-01-03T00:25:24-08:00</published>
+    <updated>2020-01-03T00:25:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-ipad-mini-cross-body-bag-3"/>
+    <title>HPD065 - Shoulder Bag fits Mini Tablet - Green</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HPD_065-50.jpg?v=1571438521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Shoulder Bag fits Mini Tablet - Green<br><br></strong>
+<li>Model#  <strong>HPD 065 Green</strong>
+</li>
+<li>7''(L) X 9''(H) X 0.5''(W)</li>
+<li>Kimono Fabric &amp; Faux Suede</li>
+<li>Fabric Lining</li>
+<li>Main zip closure </li>
+<li>Front and inner zip compartments &amp; cellphone pockets</li>
+<li>Cross-body strap</li>
+<li>Shipped from Canada / US</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPad</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/320864761</id>
+      <title>HPD065-GRN</title>
+      <s:price currency="TWD">25.00</s:price>
+      <s:sku>HPD-065-GRN</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/217251797</id>
+    <published>2020-01-03T00:25:12-08:00</published>
+    <updated>2020-01-03T00:25:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-traditional-fabric-hair-rope"/>
+    <title>APD061 - Kimono Flower Hair Tie</title>
+    <s:type>Hair Clips</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/APD_061s.jpg?v=1571438517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Hair Clips<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Model# <strong>APD 061</strong>
+</li>
+<li>1.75" Diameter</li>
+<li>Traditional Kimono Quality Fabric</li>
+<li>Shipping from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/217251797</id>
+      <title>Flower Hair Tie</title>
+      <s:price currency="TWD">3.00</s:price>
+      <s:sku>APD-061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/217240641</id>
+    <published>2020-01-03T00:24:53-08:00</published>
+    <updated>2020-01-03T00:24:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-traditional-fabric-hair-clip"/>
+    <title>APD046 - Kimono Slender Alligator Hair Clip Long</title>
+    <s:type>Hair Clips</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/APD_046a_9df9a651-0c45-4cc8-ad65-3d110cdbd902.jpg?v=1571438516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Hair Clips<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Kimono Slender Alligator Hair Clip Long<br></strong><br>
+<li><span>Model# <strong>APD 046 Long</strong></span></li>
+<li><span>4.75" (L)</span></li>
+<li><span>Traditional Kimono Quality Fabric</span></li>
+<li><span>Shipping from Canada / US</span></li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/217240641</id>
+      <title>Slender Alligator Long</title>
+      <s:price currency="TWD">4.00</s:price>
+      <s:sku>APD046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/217192105</id>
+    <published>2020-01-03T00:24:30-08:00</published>
+    <updated>2020-01-03T00:24:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-traditional-fabric-hairpin-double-pin"/>
+    <title>APD050 - Kimono Double Hairpin</title>
+    <s:type>Hair Clips</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/APD_050.jpg?v=1571438516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Hair Clips<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Kimono Double Hairpin<br><br></strong>
+<li><span>Model# <strong>APD 050</strong></span></li>
+<li><span>5.75" (L) x 1.75" Diameter</span></li>
+<li><span>Traditional Kimono Quality Fabric</span></li>
+<li><span>Shipping from Canada / US</span></li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/217192105</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">10.00</s:price>
+      <s:sku>APD-050</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/217236437</id>
+    <published>2020-01-03T00:24:07-08:00</published>
+    <updated>2020-01-03T00:24:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-traditional-fabric-square-hair-clip"/>
+    <title>APD246 - Kimono Squared Hair Claw</title>
+    <s:type>Hair Clips</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/APD_246a.jpg?v=1571438516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Hair Clips<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Kimono Squared Hair Claw</strong>
+<li><span>Model# <strong>APD 246</strong></span></li>
+<li><span>3" (L) x 2.25" (W)</span></li>
+<li><span>Traditional Kimono Quality Fabric</span></li>
+<li><span>Shipping from Canada / US</span></li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/217236437</id>
+      <title>Squared Hair Claw</title>
+      <s:price currency="TWD">5.00</s:price>
+      <s:sku>APD-246</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/217234245</id>
+    <published>2020-01-03T00:23:56-08:00</published>
+    <updated>2020-01-03T00:23:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-traditional-fabric-butterfly-hair-clip"/>
+    <title>APD020 - Kimono Butterfly Hair Pick</title>
+    <s:type>Hair Clips</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/APD_020b.jpg?v=1571438516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Hair Clips<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<span style="line-height: 1.5;">Model# </span><strong style="line-height: 1.5;">APD 020</strong>
+</li>
+<li><span style="line-height: 1.5;">4" (L) x 2.5" (W)</span></li>
+<li><span style="line-height: 1.5;">Traditional Kimono Quality Fabric</span></li>
+<li><span style="line-height: 1.2;">Random pattern</span></li>
+<li><span style="line-height: 1.5;">Shipping from Canada / US</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/217234245</id>
+      <title>Kimono Butterfly</title>
+      <s:price currency="TWD">6.00</s:price>
+      <s:sku>APD-020</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/217231285</id>
+    <published>2020-01-03T00:23:49-08:00</published>
+    <updated>2020-01-03T00:23:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-traditional-fabric-wintersweet-hair-clip"/>
+    <title>APD052 - Kimono Wintersweet Hair Clip</title>
+    <s:type>Hair Clips</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/APD_052a.jpg?v=1571438516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Hair Clips<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Kimono Wintersweet Hair Clip<br><br></strong>
+<li>Model# <strong>APD 052</strong>
+</li>
+<li>3.25" (L) x 3" (W)</li>
+<li>Traditional Kimono Quality Fabric</li>
+<li>Shipping from Canada / US</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/217231285</id>
+      <title>Wintersweet Hair Clip</title>
+      <s:price currency="TWD">5.00</s:price>
+      <s:sku>APD-052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/217095657</id>
+    <published>2020-01-03T00:23:22-08:00</published>
+    <updated>2020-01-03T00:23:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-ipad-mini-cross-body-bag"/>
+    <title>HPD065 - Shoulder Bag fits Mini Tablet - Black</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HPD065-BLK.jpg?v=1571438516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="line-height: 1.5;"><strong>Shoulder Bag fits Mini Tablet - Black</strong><br><br>Model#  </span><strong style="line-height: 1.5;">HPD 065 Black</strong></p>
+<p><strong style="line-height: 1.5;">Spec.</strong></p>
+<ul>
+<li>7''(L) X 9''(H) X 0.5''(W)</li>
+<li>Perfect fit for iPad Mini</li>
+<li>Kimono Fabric &amp; Faux Suede</li>
+<li>Fabric Lining</li>
+<li>Main zip closure </li>
+<li>Front and inner zip compartments &amp; cellphone pockets</li>
+<li>Leather strap</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPad</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/217095657</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">25.00</s:price>
+      <s:sku>HPD-065-BLK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/217098925</id>
+    <published>2020-01-03T00:23:11-08:00</published>
+    <updated>2020-01-03T00:23:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-ipad-cross-body-bag"/>
+    <title>HPD066 - Kimono Tablet Cross-body Bag - Black</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HPD_066-Black-1.jpg?v=1571438516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Kimono Tablet Cross-body Bag Black<br><br></strong>
+<li>Model# <strong>HPD 066 Black</strong>
+</li>
+<li>9''(L) X 11''(H) X 0.5''(W)</li>
+<li>Kimono Fabric &amp; Faux Suede</li>
+<li>Fabric Lining</li>
+<li><span>Main zip closure</span></li>
+<li>
+<span></span>Front and inner zip compartments &amp; cellphone pockets</li>
+<li>Adjustable Cross-body strap</li>
+<li>Shipped from Canada / US</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPad</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/217098925</id>
+      <title>HPD066-BLK</title>
+      <s:price currency="TWD">30.00</s:price>
+      <s:sku>HPD-066-BLK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/215086541</id>
+    <published>2020-01-03T00:22:34-08:00</published>
+    <updated>2020-01-03T00:22:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-wallet"/>
+    <title>WPD008 - Kimono Wallet Short</title>
+    <s:type>Wallet</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WPD_006.jpg?v=1571438516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Wallet<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kimono Wallet Short<br></strong></p>
+<li>Model# <strong>WPD 008</strong>
+</li>
+<li>Short wallets 5"(L) x 4"(H) x 1"(W)</li>
+<li>Traditional Kimono quality fabric</li>
+<li><span style="line-height: 1.5;">Main zip-top closure</span></li>
+<li><span>Bills and credit card slots</span></li>
+<li>Shipped from Canada / US</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kimono</s:tag>
+    <s:tag>Purse</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/215086541</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">16.00</s:price>
+      <s:sku>WPD-008</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/215074157</id>
+    <published>2020-01-03T00:21:44-08:00</published>
+    <updated>2020-01-03T00:21:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/kimono-iphone-pouch"/>
+    <title>PPD002 - Kimono Phone Pouch</title>
+    <s:type>Phone Pouch</s:type>
+    <s:vendor>Kimono</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/PPD002a.jpg?v=1571438516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimono<br>
+        <strong>Type: </strong>Phone Pouch<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Kimono Phone Pouch<br><br></strong>
+<li>Model# <strong>PPD 002</strong>
+</li>
+<li>5''(L) X 3''(H) X 1''(W)</li>
+<li>Velcro closure and keychain sling</li>
+<li>Traditional Quality Kimono Fabric</li>
+<li>Fabric Lining</li>
+<li>Shipped from Canada / US</li>
+<style type="text/css"><!--
+p.p1 {margin: 0.0px 0.0px 3.0px 0.0px; font: 13.0px Arial; color: #3c3c3c}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kimono</s:tag>
+    <s:tag>Phone</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/215074157</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">15.00</s:price>
+      <s:sku>PPD-002</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

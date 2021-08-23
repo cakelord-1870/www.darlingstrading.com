@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.darlingstrading.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.darlingstrading.com/collections/f-l-a-g.atom"/>
+  <title>Darling&apos;s Canada</title>
+  <updated>2021-02-17T14:45:24-08:00</updated>
+  <author>
+    <name>Darling&apos;s Canada</name>
+  </author>
+  <entry>
+    <id>https://www.darlingstrading.com/products/338591265</id>
+    <published>2021-02-17T14:45:24-08:00</published>
+    <updated>2021-02-17T14:45:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-united-states-flag-coin-purse"/>
+    <title>WTT803 - Leather Coin Purse - United States Flag</title>
+    <s:type>Coin Purse</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WTT803-US-1.jpg?v=1571438537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Coin Purse<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #ff2a00;"><strong>TEMPORARILY OUT OF STOCK</strong></span>
+<ul>
+<li>Model# <strong>WTT 803 US</strong>
+</li>
+<li><span style="line-height: 1.5;">5.25''(L) X 3.25''(W)</span></li>
+<li>Genuine <strong>leather</strong>
+</li>
+<li><span style="line-height: 1.5;">Two-sided distinctive designs</span></li>
+<li><span style="line-height: 1.5;">Inner YKK zipper pocket</span></li>
+<li><span style="line-height: 1.5;">Keychain pull</span></li>
+<li><span style="line-height: 1.5;">Shipped from Canada / US</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coin purse</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>USA</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/338591265</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">8.00</s:price>
+      <s:sku>WTT803-US</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4387176644675</id>
+    <published>2020-01-14T14:19:04-08:00</published>
+    <updated>2020-01-14T14:19:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-7401-ca-canada-flag-handbag"/>
+    <title>YD-7401 - Darling NEW Canadian Flag Handbag</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD-7401_Ca_A.jpg?v=1579040510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>YD-7401 - Darling NEW Canadian Flag Handbag</strong></div>
+<br>
+<div><strong>Model# YD 7401 Canada</strong></div>
+<div><strong>Features:</strong></div>
+<div>
+<ul>
+<li><strong style="line-height: 1.5;">High-demand item! 100% conversation piece</strong></li>
+<li><strong style="line-height: 1.5;">A thoughtful must-buy souvenir for Tourists</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>13.5''(W) X 9''(H) X 5''(D) </li>
+<li>Premium PU leather</li>
+<li>Fabric lining</li>
+<li>7" Handles &amp; adjustable crossbody strap </li>
+<li>Main zip-top closure</li>
+<li>Inner zip pockets</li>
+<li>Shipped from Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CANADA</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>Handbag</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387176644675</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">27.00</s:price>
+      <s:sku>YD-7401CA</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/4387164880963</id>
+    <published>2020-01-14T13:37:12-08:00</published>
+    <updated>2020-01-14T13:37:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/yd-7402-darling-flag-backpack"/>
+    <title>YD-7402 - Darling Canadian Flag Backpack</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/YD-7402_CA_A.jpg?v=1579038363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>YD-7402 - Darling Canadian Flag Backpack</strong></div>
+<div><strong></strong></div>
+<div><strong></strong></div>
+<div><strong></strong></div>
+<div><meta charset="utf-8"></div>
+<div><strong></strong></div>
+<div><strong>Model# YD 7402  Canada</strong></div>
+<div><strong></strong></div>
+<meta charset="utf-8">
+<div><strong>Features:</strong></div>
+<div>
+<ul>
+<li><strong style="line-height: 1.5;">High-demand item! 100% conversation piece</strong></li>
+<li><strong style="line-height: 1.5;">A thoughtful must-buy souvenir for Tourists</strong></li>
+<li><strong>No concern for any seasonal sale difficulties</strong></li>
+</ul>
+<meta charset="utf-8"> <meta charset="utf-8">
+<div><strong>Specs:</strong></div>
+<ul>
+<li>11.5''(W) X 10.5''(H) X 5.5''(D) </li>
+<li>Premium PU leather</li>
+<li>Fabric lining</li>
+<li>Adjustable double straps </li>
+<li>Main full zipper closure</li>
+<li>Inner zip pockets</li>
+<li>Shipped from Canada</li>
+</ul>
+</div>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backpack</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/4387164880963</id>
+      <title>Canada</title>
+      <s:price currency="TWD">25.00</s:price>
+      <s:sku>YD-7402-CA</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/6502073607</id>
+    <published>2016-05-11T16:38:00-07:00</published>
+    <updated>2016-05-11T16:38:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/sab-usa-02"/>
+    <title>SAB02 - United States Flag Pattern Oblong Scarf - Vintage</title>
+    <s:type>Scarf</s:type>
+    <s:vendor>Darling&apos;s Scarf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/SAB-USA-02.jpeg?v=1571438542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s Scarf<br>
+        <strong>Type: </strong>Scarf<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="a-size-large"><span class="a-size-large"><span class="a-size-large"><strong>Darling's United States Flag Pattern Oblong Scarf Vintage</strong><br><br>A v</span></span></span><span class="a-size-large"><span class="a-size-large"><span>iscose</span> scarf featuring US flag pattern. Lightweight.</span></span></p>
+<ul>
+<li>
+<span style="line-height: 1.2;">Approx. 72" length x 36</span><span style="line-height: 1.4;">" width</span>
+</li>
+<li><span style="line-height: 1.2;">Hand wash; Line dry</span></li>
+<li>100% Viscose</li>
+<li>
+<span style="line-height: 1.2;"><span style="line-height: 1.2;"><span style="line-height: 1.2;">Model# </span></span></span>SAB-USA-02</li>
+</ul>
+<ul class="a-vertical a-spacing-none"></ul>
+<ul class="a-vertical a-spacing-none"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flag</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/6502073607</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/6502072519</id>
+    <published>2016-05-11T16:38:00-07:00</published>
+    <updated>2016-05-11T16:38:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/sab-usa-01"/>
+    <title>SAB01 - United States Flag Pattern Oblong Scarf</title>
+    <s:type>Scarf</s:type>
+    <s:vendor>Darling&apos;s Scarf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HR1962.jpeg?v=1571438542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s Scarf<br>
+        <strong>Type: </strong>Scarf<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="a-size-large"><span class="a-size-large"><span class="a-size-large"><strong>Darling's United States Flag Pattern Oblong Scarf</strong><br><br>A v</span></span></span><span class="a-size-large"><span class="a-size-large"><span>iscose</span> scarf featuring US flag pattern. Lightweight.</span></span></p>
+<ul>
+<li>
+<span style="line-height: 1.2;">Approx. 72" length x 36</span><span style="line-height: 1.4;">" width</span>
+</li>
+<li><span style="line-height: 1.2;">Hand wash; Line dry</span></li>
+<li>100% Viscose</li>
+<li>
+<span style="line-height: 1.2;"><span style="line-height: 1.2;"><span style="line-height: 1.2;">Model# </span></span></span>SAB-USA-01</li>
+</ul>
+<ul class="a-vertical a-spacing-none"></ul>
+<ul class="a-vertical a-spacing-none"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flag</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/6502072519</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/6502071687</id>
+    <published>2016-05-11T16:38:00-07:00</published>
+    <updated>2016-05-11T16:38:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/sab-uk-01"/>
+    <title>SAB02 - United Kingdoms Flag Pattern Oblong Scarf</title>
+    <s:type>Scarf</s:type>
+    <s:vendor>Darling&apos;s Scarf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/SAB-UK01-03.jpeg?v=1571438542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s Scarf<br>
+        <strong>Type: </strong>Scarf<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="a-size-large"><span class="a-size-large"><span class="a-size-large"><strong>Darling's United Kingdoms Flag Pattern Oblong Scarf</strong><br><br>A v</span></span></span><span class="a-size-large"><span class="a-size-large"><span>iscose</span> scarf featuring UK flag pattern. Lightweight.</span></span></p>
+<ul>
+<li>
+<span style="line-height: 1.2;">Approx. 72" length x 36</span><span style="line-height: 1.4;">" width</span>
+</li>
+<li><span style="line-height: 1.2;">Hand wash; Line dry</span></li>
+<li>100% Viscose</li>
+<li>
+<span style="line-height: 1.2;"><span style="line-height: 1.2;">Model# </span></span>SAB-UK-02</li>
+</ul>
+<ul class="a-vertical a-spacing-none"></ul>
+<ul class="a-vertical a-spacing-none"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flag</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/6502071687</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/341272961</id>
+    <published>2014-07-08T14:43:00-07:00</published>
+    <updated>2014-07-08T14:43:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-leather-coin-purse-i-love-canada"/>
+    <title>WTT803 - Leather Coin Purse - I Love Canada</title>
+    <s:type>Coin Purse</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WTT803-ILCA.jpg?v=1571438537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Coin Purse<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Model# <strong>WTT 803 ILCA</strong>
+</li>
+<li><span style="line-height: 1.5;">5.25''(L) X 3.25''(W)</span></li>
+<li><span style="line-height: 1.5;">Genuine <strong>leather</strong></span></li>
+<li><span style="line-height: 1.5;">Two-sided distinctive designs</span></li>
+<li><span style="line-height: 1.5;">Inner YKK zipper pocket</span></li>
+<li><span style="line-height: 1.5;">Keychain pull</span></li>
+<li><span style="line-height: 1.5;">Shipped from Canada / US</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Coin purse</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/341272961</id>
+      <title>WTT803-ILCA</title>
+      <s:price currency="TWD">8.00</s:price>
+      <s:sku>WTT803-ILCA</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/338606881</id>
+    <published>2014-07-03T15:14:00-07:00</published>
+    <updated>2014-07-03T15:14:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-cadana-flag-coin-purse"/>
+    <title>WTT803 - Leather Coin Purse - Canada Flag</title>
+    <s:type>Coin Purse</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WTT803-CA-1.jpg?v=1571438537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Coin Purse<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Model#<strong> WTT 803 CA</strong>
+</li>
+<li><span style="line-height: 1.5;">5.25''(L) X 3.25''(W)</span></li>
+<li>Genuine <strong>leather</strong>
+</li>
+<li><span style="line-height: 1.5;">Two-sided distinctive designs</span></li>
+<li><span style="line-height: 1.5;">Inner YKK zipper pocket</span></li>
+<li><span style="line-height: 1.5;">Keychain pull</span></li>
+<li><span style="line-height: 1.5;">Shipped from Canada / US</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CANADA</s:tag>
+    <s:tag>Coin purse</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/338606881</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">8.00</s:price>
+      <s:sku>WTT803-CA</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/338590577</id>
+    <published>2014-07-03T14:29:00-07:00</published>
+    <updated>2014-07-03T14:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-brazil-flag-coin-purse"/>
+    <title>WTT803 - Leather Coin Purse - Brazil Flag</title>
+    <s:type>Coin Purse</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WTT803-BR-1.jpg?v=1571438537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Coin Purse<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Model#<strong> WTT 803 BR</strong>
+</li>
+<li>5.25''(L) X 3.25''(W)</li>
+<li><strong>Genuine leather</strong></li>
+<li><span style="line-height: 1.5;">Two-sided distinctive designs</span></li>
+<li><span style="line-height: 1.5;">Inner <strong>YKK</strong> zipper pocket</span></li>
+<li><span style="line-height: 1.5;">Keychain pull</span></li>
+<li><span style="line-height: 1.5;">Shipped from Canada / US</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAZIL</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Coin purse</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/338590577</id>
+      <title>WTT803-BR</title>
+      <s:price currency="TWD">3.00</s:price>
+      <s:sku>WTT803-BR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/338589909</id>
+    <published>2014-07-03T14:26:00-07:00</published>
+    <updated>2014-07-03T14:26:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-united-states-flag-card-holder"/>
+    <title>WTT-801 - Leather Wallet - Long - United States Flag</title>
+    <s:type>Wallet</s:type>
+    <s:vendor>TT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WTT801-US-01.jpg?v=1571438536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TT<br>
+        <strong>Type: </strong>Wallet<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Model#<strong> WTT 801 US</strong>
+</li>
+<li><span style="line-height: 1.5;">7.25''(L) X 3.5''(H) X 0.75''(W)</span></li>
+<li>Genuine <strong>leather</strong>
+</li>
+<li>Leather lining</li>
+<li><span style="line-height: 1.5;">Two-sided distinctive designs</span></li>
+<li><span style="line-height: 1.5;">Inner YKK zipper coins pocket</span></li>
+<li><span style="line-height: 1.5;">Bills and credit card slots</span></li>
+<li><span style="line-height: 1.5;">Shipped from Canada / US</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flag</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>USA</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/338589909</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">20.00</s:price>
+      <s:sku>WTT801-US</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/338589337</id>
+    <published>2014-07-03T14:22:00-07:00</published>
+    <updated>2014-07-03T14:22:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-canada-flag-card-holder"/>
+    <title>WTT801CA - Leather Wallet Long - Canada Flag</title>
+    <s:type>Wallet</s:type>
+    <s:vendor>FLAG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WTT801-CA-1.jpg?v=1571438536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FLAG<br>
+        <strong>Type: </strong>Wallet<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Darling's Leather Wallet - Long - Canada Flag</strong>
+<ul>
+<li>Model#<strong> WTT 801 CA</strong>
+</li>
+<li><span style="line-height: 1.5;">7.25''(L) X 3.5''(H) X 0.75''(W)</span></li>
+<li>Genuine <strong>leather</strong>
+</li>
+<li>Leather lining</li>
+<li><span style="line-height: 1.5;">Two-sided distinctive designs</span></li>
+<li><span style="line-height: 1.5;">Inner YKK zipper coins pocket</span></li>
+<li><span style="line-height: 1.5;">Bills and credit card slots</span></li>
+<li><span style="line-height: 1.5;">Shipped from Canada / US</span></li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CANADA</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/338589337</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">20.00</s:price>
+      <s:sku>WTT801-CA</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/338589017</id>
+    <published>2014-07-03T14:20:00-07:00</published>
+    <updated>2014-07-03T14:20:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-brazil-flag-card-holder"/>
+    <title>WTT801 - Leather Wallet - Long - Brazil Flag</title>
+    <s:type>Wallet</s:type>
+    <s:vendor>FLAG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WTT801-BR-1.jpg?v=1571438536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FLAG<br>
+        <strong>Type: </strong>Wallet<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Model#<strong> WTT 801 BR</strong>
+</li>
+<li><span style="line-height: 1.5;">7.25''(L) X 3.5''(H) X 0.75''(W)</span></li>
+<li>Genuine <strong>leather</strong>
+</li>
+<li>Leather lining</li>
+<li><span style="line-height: 1.5;">Two-sided distinctive designs</span></li>
+<li><span style="line-height: 1.5;">Inner YKK zipper coins pocket</span></li>
+<li><span style="line-height: 1.5;">Bills and credit card slots</span></li>
+<li><span style="line-height: 1.5;">Shipped from Canada / US</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAZIL</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/338589017</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">8.00</s:price>
+      <s:sku>WTT801-BR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/338584053</id>
+    <published>2014-07-03T14:04:00-07:00</published>
+    <updated>2014-07-03T14:04:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-i-love-canada-flag-wallet"/>
+    <title>Darling&apos;s Leather Wallet - Medium - United States Flag</title>
+    <s:type>Wallet</s:type>
+    <s:vendor>FLAG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WTT902-US-1.jpg?v=1571438536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FLAG<br>
+        <strong>Type: </strong>Wallet<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Model#<strong> WTT 902 US</strong>
+</li>
+<li><span style="line-height: 1.5;">5''(L) X 4''(H) X 1''(W)</span></li>
+<li>Genuine <strong>leather</strong>
+</li>
+<li>Leather lining</li>
+<li><span style="line-height: 1.5;">Two-sided distinctive designs</span></li>
+<li><span style="line-height: 1.5;">Substantial zipper pull</span></li>
+<li><span style="line-height: 1.5;">Inner zip pocket</span></li>
+<li><span style="line-height: 1.5;">Main zip-top closure</span></li>
+<li><span style="line-height: 1.5;">Bills and credit card slots</span></li>
+<li><span style="line-height: 1.5;">Shipped from Canada / US</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flag</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>USA</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/338584053</id>
+      <title>WTT902-US</title>
+      <s:price currency="TWD">16.00</s:price>
+      <s:sku>WTT902-US</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/338580993</id>
+    <published>2014-07-03T13:55:00-07:00</published>
+    <updated>2014-07-03T13:55:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-canada-flag-wallet"/>
+    <title>WTT902 - Leather Wallet - Medium - Canada Flag</title>
+    <s:type>Wallet</s:type>
+    <s:vendor>FLAG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WTT902-CA-R1.jpg?v=1571438536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FLAG<br>
+        <strong>Type: </strong>Wallet<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Model#<strong> WTT 902 CA</strong>
+</li>
+<li>5''(L) X 4''(H) X 1''(W)</li>
+<li>Genuine <strong>leather</strong>
+</li>
+<li>Leather lining</li>
+<li>Two-sided distinctive designs</li>
+<li>Substantial zipper pull</li>
+<li>Inner zip pocket</li>
+<li>Main zip-top closure</li>
+<li>Bills and credit card slots</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CANADA</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/338580993</id>
+      <title>WTT902-CA</title>
+      <s:price currency="TWD">16.00</s:price>
+      <s:sku>WTT902-CA</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/338579873</id>
+    <published>2014-07-03T13:50:00-07:00</published>
+    <updated>2014-07-03T13:50:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darling-s-brazil-flag-wallet"/>
+    <title>WTT902 - Leather Wallet - Medium - Brazil Flag</title>
+    <s:type>Wallet</s:type>
+    <s:vendor>FLAG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/WTT902-BR-1.jpg?v=1571438536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FLAG<br>
+        <strong>Type: </strong>Wallet<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Model#<strong style="line-height: 1.5;"> WTT 902 BR</strong>
+</li>
+<li>5''(L) X 4''(H) X 1''(W)</li>
+<li>Genuine <strong>leather</strong>
+</li>
+<li>Leather lining</li>
+<li><span style="line-height: 1.5;">Two-sided distinctive designs</span></li>
+<li>Substantial zipper pull</li>
+<li><span style="line-height: 1.5;">Inner zip pocket</span></li>
+<li><span>Main zip-top closure</span></li>
+<li><span>Bills and credit card slots</span></li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAZIL</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/338579873</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">8.00</s:price>
+      <s:sku>WTT902-BR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/1355651905</id>
+    <published>2014-06-30T15:57:00-07:00</published>
+    <updated>2014-06-30T15:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/hda58-us"/>
+    <title>HDA-58-US - United States Flag Shoulder Bag</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/Flag_US_Smaill-01.jpg?v=1571438541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Darling's New United States Flag Crossbody</div>
+<div></div>
+<div>Model# HDA 58 US</div>
+<div><strong>    </strong></div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong style="line-height: 1.5;">Year-round design, never out of trend</strong></li>
+<li><strong style="line-height: 1.5;">A Must Buy for Tourists</strong></li>
+<li><strong style="line-height: 1.5;">Makes a thoughtful souvenir</strong></li>
+<li><strong style="line-height: 1.5;">No concern for any Seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>9.5'(W) X 7.5''(H) X 4.5''(D) </li>
+<li>Premium PU leather</li>
+<li>Fabric lining</li>
+<li>Adjustable crossbody strap </li>
+<li>Main zip-top closure</li>
+<li>Inner zip and cellphone pockets</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flag</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:tag>USA</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1355651905</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">25.00</s:price>
+      <s:sku>HDA-58-US</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/1355648065</id>
+    <published>2014-06-30T15:57:00-07:00</published>
+    <updated>2014-06-30T15:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-new-united-kingdom-flag-satchel-pre-order-now"/>
+    <title>HDA-58-UK - United Kingdom Flag Shoulder Bag</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/Flag_UK_Smaill-01.jpg?v=1571438541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Model# HDA 58 UK</div>
+<div><strong>    </strong></div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong style="line-height: 1.5;">Year-round design, never out of trend</strong></li>
+<li><strong style="line-height: 1.5;">A Must Buy for Tourists</strong></li>
+<li><strong style="line-height: 1.5;">Makes a thoughtful souvenir</strong></li>
+<li><strong style="line-height: 1.5;">No concern for any Seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>9.5'(W) X 7.5''(H) X 4.5''(D) </li>
+<li>Premium PU leather</li>
+<li>Fabric lining</li>
+<li>Adjustable crossbody strap </li>
+<li>Main zip-top closure</li>
+<li>Inner zip and cellphone pockets</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flag</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:tag>UK</s:tag>
+    <s:tag>United Kingdom</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1355648065</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">25.00</s:price>
+      <s:sku>HDA-58-UK</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/1355635777</id>
+    <published>2014-06-30T15:57:00-07:00</published>
+    <updated>2014-06-30T15:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/hda68-us"/>
+    <title>HDA-68-US - United States Flag Handbag</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/Flag_US_Medium-01.jpg?v=1571438540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Darling's New United States Flag Handbag</strong></div>
+<br>
+<div><strong>Model# HDA 68 US</strong></div>
+<div><strong>    </strong></div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong style="line-height: 1.5;">Year-round design, never out of trend</strong></li>
+<li><strong style="line-height: 1.5;">A Must Buy for Tourists</strong></li>
+<li><strong style="line-height: 1.5;">Makes a thoughtful souvenir</strong></li>
+<li><strong style="line-height: 1.5;">No concern for any Seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>13.5''(W) X 9''(H) X 5''(D) </li>
+<li>Premium PU leather</li>
+<li>Fabric lining</li>
+<li>Handles</li>
+<li>Adjustable crossbody strap </li>
+<li>Main zip-top closure</li>
+<li>Inner zip and cellphone pockets</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flag</s:tag>
+    <s:tag>Handbag</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>USA</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1355635777</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">30.00</s:price>
+      <s:sku>HDA-68-US</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/1355629057</id>
+    <published>2014-06-30T15:57:00-07:00</published>
+    <updated>2014-06-30T15:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/hda68-uk"/>
+    <title>HDA-68-UK - United Kingdom Flag Handbag</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/Flag_UK_Medium-01.jpg?v=1571438540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Darling's New United Kingdom Flag Handbag</strong></div>
+<br>
+<div><strong>Model# HDA 68 UK</strong></div>
+<div><strong>    </strong></div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong style="line-height: 1.5;">Year-round design, never out of trend</strong></li>
+<li><strong style="line-height: 1.5;">A Must Buy for Tourists</strong></li>
+<li><strong style="line-height: 1.5;">Makes a thoughtful souvenir</strong></li>
+<li><strong style="line-height: 1.5;">No concern for any Seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>13.5''(W) X 9''(H) X 5''(D) </li>
+<li>Premium PU leather</li>
+<li>Fabric lining</li>
+<li>Handles</li>
+<li>Adjustable crossbody strap </li>
+<li>Main zip-top closure</li>
+<li>Inner zip and cellphone pockets</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flag</s:tag>
+    <s:tag>Handbag</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>UK</s:tag>
+    <s:tag>United Kingdom</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1355629057</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">30.00</s:price>
+      <s:sku>HDA-68-UK</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/1354828289</id>
+    <published>2014-06-30T15:57:00-07:00</published>
+    <updated>2014-06-30T15:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/hda58-ca"/>
+    <title>HDA-58-CA - Canada Flag Shoulder Bag</title>
+    <s:type>Shoulder Bag</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/Flag_CA_Smaill-01.jpg?v=1571438540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>Shoulder Bag<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Darling's New Canada Flag Crossbody</strong></div>
+<div></div>
+<div><strong>Model# HDA 58 CA</strong></div>
+<div><strong>    </strong></div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong style="line-height: 1.5;">Year-round design, never out of trend</strong></li>
+<li><strong style="line-height: 1.5;">A Must Buy for Tourists</strong></li>
+<li><strong style="line-height: 1.5;">Makes a thoughtful souvenir</strong></li>
+<li><strong style="line-height: 1.5;">No concern for any Seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>9.5'(W) X 7.5''(H) X 4.5''(D) </li>
+<li>Premium PU leather</li>
+<li>Fabric lining</li>
+<li>Adjustable crossbody strap </li>
+<li>Main zip-top closure</li>
+<li>Inner zip and cellphone pockets</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CANADA</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Shoulder Bag</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1354828289</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">25.00</s:price>
+      <s:sku>HDA-58-CA</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/1354583489</id>
+    <published>2014-06-30T15:57:00-07:00</published>
+    <updated>2014-06-30T15:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/darlings-new-canada-flag"/>
+    <title>HDA-68-CA - Canada Flag Handbag</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>Darling&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/Flag_CA_Medium-01.jpg?v=1571438540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darling&#39;s<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Darling's New Canada Flag Handbag</strong></div>
+<br>
+<div><strong>Model# HDA 68 CA</strong></div>
+<div><strong>    </strong></div>
+<div>
+<strong>Features:</strong><br>
+<ul>
+<li><strong style="line-height: 1.5;">Year-round design, never out of trend</strong></li>
+<li><strong style="line-height: 1.5;">A Must Buy for Tourists</strong></li>
+<li><strong style="line-height: 1.5;">Makes a thoughtful souvenir</strong></li>
+<li><strong style="line-height: 1.5;">No concern for any Seasonal sale difficulties</strong></li>
+</ul>
+</div>
+<div><strong>Specs:</strong></div>
+<ul>
+<li>13.5''(W) X 9''(H) X 5''(D) </li>
+<li>Premium PU leather</li>
+<li>Fabric lining</li>
+<li>Handles</li>
+<li>Adjustable crossbody strap </li>
+<li>Main zip-top closure</li>
+<li>Inner zip and cellphone pockets</li>
+<li>Shipped from Canada / US</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CANADA</s:tag>
+    <s:tag>Flag</s:tag>
+    <s:tag>Handbag</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/1354583489</id>
+      <title>Default Title</title>
+      <s:price currency="TWD">30.00</s:price>
+      <s:sku>HDA-68-CA</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+</feed>

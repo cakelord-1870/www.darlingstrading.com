@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.darlingstrading.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.darlingstrading.com/collections/vintage.atom"/>
+  <title>Darling&apos;s Canada</title>
+  <updated>2014-11-27T12:11:00-08:00</updated>
+  <author>
+    <name>Darling&apos;s Canada</name>
+  </author>
+  <entry>
+    <id>https://www.darlingstrading.com/products/382193165</id>
+    <published>2014-11-27T12:11:00-08:00</published>
+    <updated>2014-11-27T12:11:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/hv-002"/>
+    <title>HV002 - Vintage Linen iPad &amp; Galaxy Tablet - 3 colors</title>
+    <s:type>iPad Bag</s:type>
+    <s:vendor>Vintage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HV001002-Red-2_ed79745b-693e-4fe8-ab2f-0641f7d62ec8.jpg?v=1571438539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vintage<br>
+        <strong>Type: </strong>iPad Bag<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>Vintage Linen iPad &amp; Galaxy Tab 10<br><br></strong>
+<li>
+<span style="line-height: 1.5;">Model# </span><strong style="line-height: 1.5;">HV 002</strong>
+</li>
+<li><strong><span style="line-height: 1.5;">Regular Size : 10.5''(L) X 8.5''(H) X 0.5''(W)</span></strong></li>
+<li><span style="line-height: 1.5;">Regular size designed for iPad / Samsung Galaxy Tab 10.4</span></li>
+<li><span style="line-height: 1.5;">Darling's featured product</span></li>
+<li><span style="line-height: 1.5;">Vintage linen fabric surface</span></li>
+<li><span style="line-height: 1.5;">Soft fabric lining</span></li>
+<li><span style="line-height: 1.5;">Shipped from Canada / US</span></li>
+<style type="text/css"><!--
+p.p1 {margin: 0.0px 0.0px 3.0px 0.0px; font: 13.0px Arial; color: #3c3c3c}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>iPad</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/382193165</id>
+      <title>Red</title>
+      <s:price currency="TWD">4.00</s:price>
+      <s:sku>HV-002-RED</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/382193165</id>
+      <title>Green</title>
+      <s:price currency="TWD">4.00</s:price>
+      <s:sku>HV-002-GRN</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/382193165</id>
+      <title>Black</title>
+      <s:price currency="TWD">4.00</s:price>
+      <s:sku>HV-002-BLK</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/331073165</id>
+    <published>2014-06-16T14:36:00-07:00</published>
+    <updated>2014-06-16T14:36:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/vintage-cross-body-bag"/>
+    <title>HV012 - Vintage Shoulder Bag</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>Vintage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HV_012-50.jpg?v=1571438534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vintage<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Vintage Shoulder Bag<br><br></strong>
+<li><span>Model# <strong>HV 012</strong></span></li>
+<li><span>10''(L) X 8''(H) X 2''(W)</span></li>
+<li><span style="line-height: 1.5;">Vintage fabric</span></li>
+<li><span style="line-height: 1.5;">Fabric lining</span></li>
+<li><span>Adjustable shoulder strap </span></li>
+<li><span>Main zip-top closure</span></li>
+<li><span>Inner zipper and cellphone pockets</span></li>
+<li><span>Shipped from Canada / US</span></li>
+<style type="text/css"><!--
+p.p1 {margin: 0.0px 0.0px 3.0px 0.0px; font: 13.0px Arial; color: #3c3c3c}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/331073165</id>
+      <title>HV012</title>
+      <s:price currency="TWD">9.00</s:price>
+      <s:sku>HV-012</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.darlingstrading.com/products/331070465</id>
+    <published>2014-06-16T14:29:00-07:00</published>
+    <updated>2014-06-16T14:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.darlingstrading.com/products/vintage-tode"/>
+    <title>HV022 - Vintage Shopping / Grocery Bag</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>Vintage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0345/5921/products/HV_022-00.jpg?v=1571438534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vintage<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Vintage Tote Bag</strong><br><br>
+<li><span>Model# <strong>HV 022</strong></span></li>
+<li><span>15''(L) X 16''(H) X 3.5''(W)</span></li>
+<li><span style="line-height: 1.5;">Vintage fabric</span></li>
+<li><span style="line-height: 1.5;">Fabric lining</span></li>
+<li><span>Shoulder strap </span></li>
+<li><span>Main zip-top closure</span></li>
+<li><span>Inner zipper</span></li>
+<li><span>Shipped from Canada / US</span></li>
+<style type="text/css"><!--
+p.p1 {margin: 0.0px 0.0px 3.0px 0.0px; font: 13.0px Arial; color: #3c3c3c}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>https://www.darlingstrading.com/products/331070465</id>
+      <title>HV022</title>
+      <s:price currency="TWD">9.00</s:price>
+      <s:sku>HV-022</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>
